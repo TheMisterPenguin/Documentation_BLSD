@@ -1,0 +1,21 @@
+<map id="valeur_elt" name="valeur_elt">
+<area shape="rect" id="node1" title="Fonction qui renvoie l&#39;élément courant." alt="" coords="744,481,831,507"/>
+<area shape="rect" id="node2" href="$d0/d58/sorts_8c.html#a5a9bb7c6be7a6d5073e48d50f014e299" title=" " alt="" coords="346,211,441,238"/>
+<area shape="rect" id="node3" href="$d5/dae/affichage_8h.html#a6d78ce42135a25accbd3bf152dc94563" title="Fonction qui affiche les sorts." alt="" coords="127,211,238,238"/>
+<area shape="rect" id="node4" href="$d0/d29/main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,467,60,494"/>
+<area shape="rect" id="node5" href="$d5/dae/affichage_8h.html#ab3637688138fc059d87799ea8ec77514" title="Fonction qui affiche les textures contenues dans la liste en paramètre." alt="" coords="555,810,671,837"/>
+<area shape="rect" id="node6" href="$d5/dae/affichage_8h.html#a373b7b6959133fba94c4030ebfa75155" title="Fonction qui affiche la texture des coffres." alt="" coords="121,299,244,326"/>
+<area shape="rect" id="node7" href="$d5/dae/affichage_8h.html#a9bfa693255703c0de636ceb7db7d8d2d" title="Fonction qui affiche les monstres." alt="" coords="113,363,252,390"/>
+<area shape="rect" id="node8" href="$d5/dae/affichage_8h.html#a1ad58b041cf913f02022a14540fb96bb" title="Fonction qui permet le déplacement d&#39;une entité" alt="" coords="529,186,696,213"/>
+<area shape="rect" id="node9" href="$d5/dae/affichage_8h.html#a2a84ccb2d94dcced9d8a95eed9bc413b" title="Permet de déplacer un joueur secondaire de x unités horizontales sur la map." alt="" coords="308,491,479,532"/>
+<area shape="rect" id="node10" href="$d5/dae/affichage_8h.html#aa536721b7c2a9adac6ef4f2ffb83074e" title="Permet de déplacer le personnage de x unités horizontales sur la map." alt="" coords="315,557,472,583"/>
+<area shape="rect" id="node11" href="$d5/dae/affichage_8h.html#a2f44858b86ff8e45d566a09cdd6549e9" title="Fonction qui permet le déplacement d&#39;une entité" alt="" coords="529,237,696,263"/>
+<area shape="rect" id="node12" href="$d5/dae/affichage_8h.html#a06c50666787c24c1a3ca91501e9f772d" title="Permet de déplacer un joueur secondaire de y unités verticales sur la map." alt="" coords="308,608,479,649"/>
+<area shape="rect" id="node13" href="$d5/dae/affichage_8h.html#a1479d2bcf35df66e73306d28d9ea0e13" title="Permet de déplacer le personnage principal de y unités verticales sur la map." alt="" coords="315,674,472,701"/>
+<area shape="rect" id="node14" href="$d5/dae/affichage_8h.html#aa18ada4ee80cd3ec4a96012f5bfdf469" title="Fonction qui détruit une collision donnée dans une liste de collisions." alt="" coords="545,389,680,431"/>
+<area shape="rect" id="node15" href="$d2/d2f/personnage_8h.html#aadc96b5c1e76a0574f5759d63bc46e39" title="Fonction qui gère les effets de l&#39;environnement sur le joueur." alt="" coords="305,439,481,466"/>
+<area shape="rect" id="node16" href="$dc/db7/map_8h.html#af837acc6ac888e66589d3ff48f4eec12" title="Fonction qui permet de détruire une map." alt="" coords="339,886,448,913"/>
+<area shape="rect" id="node17" href="$d1/daa/definition__commun_8h.html#affaacddc6fe16ed3d818bf7e0c9798eb" title="Fonction qui appelle les fonctions pour terminer le programme." alt="" coords="108,749,257,775"/>
+<area shape="rect" id="node18" href="$d2/d9c/coffres_8h.html#afaede33891b4fa55d0b68267a6207487" title="Gère les interactions du joueur avec un coffre lors d&#39;une collision." alt="" coords="545,607,681,634"/>
+<area shape="rect" id="node19" href="$d8/dd0/listes_8h.html#ac84d5f990f188eed04f7670abf38b020" title="Fonction qui permet de selectionner l&#39;élément courant à partir d&#39;un élément précis." alt="" coords="531,911,694,938"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="en_queue" name="en_queue">
+<area shape="rect" id="node1" title="Fonction qui permet de se placer en queue de la liste." alt="" coords="203,31,288,57"/>
+<area shape="rect" id="node2" href="$dc/db7/map_8h.html#af6448083132a6591f73061457f30ebb3" title="Fonction qui récupère les informations stockées dans le fichier don le nom est donne en entrée." alt="" coords="27,5,133,32"/>
+<area shape="rect" id="node3" href="$d1/daa/definition__commun_8h.html#affaacddc6fe16ed3d818bf7e0c9798eb" title="Fonction qui appelle les fonctions pour terminer le programme." alt="" coords="5,56,155,83"/>
+</map>

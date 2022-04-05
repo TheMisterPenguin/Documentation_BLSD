@@ -1,0 +1,5 @@
+<map id="orienter_monstre_vers_joueur" name="orienter_monstre_vers_joueur">
+<area shape="rect" id="node1" title="Fonction qui met à jour la texture du monstre pour qu&#39;il soit orienté vers le joueur." alt="" coords="160,23,329,65"/>
+<area shape="rect" id="node2" href="$d9/d79/monstres_8c.html#adaacc2ea168601cb189fcdfada2be990" title="Fonction qui met à jour la texture du monstre &quot;witcher&quot; lorsqu&#39;il est dans sa phase d&#39;attaque." alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node3" href="$d9/d79/monstres_8c.html#a4fc9ed0e280b942464e678001c278b5d" title="Fonction qui met à jour la texture du monstre de sorte à ce qu&#39;il se deplace vers le joueur." alt="" coords="9,56,108,83"/>
+</map>

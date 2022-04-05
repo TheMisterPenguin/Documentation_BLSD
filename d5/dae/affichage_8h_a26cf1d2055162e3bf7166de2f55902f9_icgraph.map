@@ -1,0 +1,6 @@
+<map id="place_rect_center_from_point" name="place_rect_center_from_point">
+<area shape="rect" id="node1" title="Fonction qui permet de placer le centre du rectangle donné en paramètre à un point précis." alt="" coords="224,49,399,90"/>
+<area shape="rect" id="node2" href="$d0/d58/sorts_8c.html#a5a9bb7c6be7a6d5073e48d50f014e299" title=" " alt="" coords="43,5,138,32"/>
+<area shape="rect" id="node3" href="$d5/dae/affichage_8h.html#a28a886027c80e24f05ef6a6b9ae10568" title="Fait évoluer les animations en jeu." alt="" coords="5,56,176,83"/>
+<area shape="rect" id="node4" href="$d3/d7a/map_8c.html#a7e9c15657f08efce7a84ec6822c064e2" title=" " alt="" coords="45,107,136,133"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="afficher_texture" name="afficher_texture">
+<area shape="rect" id="node1" title="Affiche la texture donnée en paramètre à l&#39;écran." alt="" coords="555,487,680,513"/>
+<area shape="rect" id="node2" href="$de/dde/boss_8c.html#a4458a2c395fa467f57e350a2f13096f2" title=" " alt="" coords="327,56,504,83"/>
+<area shape="rect" id="node3" href="$de/dde/boss_8c.html#a9de096805953d1628c74d869cf75e741" title=" " alt="" coords="147,31,237,57"/>
+<area shape="rect" id="node4" href="$d5/dae/affichage_8h.html#a8a414764c90c1cc2a104f536ef34a8dd" title="Fonction qui affiche la texture des animations." alt="" coords="117,411,267,437"/>
+<area shape="rect" id="node5" href="$d0/d29/main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,335,60,361"/>
+<area shape="rect" id="node6" href="$de/dde/boss_8c.html#a1ec17316fe3d67eed776ea8f507c4edf" title=" " alt="" coords="361,563,469,589"/>
+<area shape="rect" id="node7" href="$d5/dae/affichage_8h.html#ab3637688138fc059d87799ea8ec77514" title="Fonction qui affiche les textures contenues dans la liste en paramètre." alt="" coords="357,613,473,640"/>
+<area shape="rect" id="node8" href="$d5/dae/affichage_8h.html#a373b7b6959133fba94c4030ebfa75155" title="Fonction qui affiche la texture des coffres." alt="" coords="131,461,253,488"/>
+<area shape="rect" id="node9" href="$d0/d29/main_8c.html#afba04a756d78b062c9638acb7436beed" title=" " alt="" coords="138,512,246,539"/>
+<area shape="rect" id="node10" href="$d6/d46/menus_8h.html#a98b87de7b6779d1ea4db3543621cc3cb" title=" " alt="" coords="120,711,264,737"/>
+<area shape="rect" id="node11" href="$d6/d46/menus_8h.html#afcde784ea1d5fb8c9fd6436fa063c5f2" title="Affiche l&#39;inventaire et gère les interactions avec l&#39;utilisateur." alt="" coords="120,762,264,803"/>
+<area shape="rect" id="node12" href="$d6/d46/menus_8h.html#a1c8778affd5380fae88f7ce24787c8ea" title="Affiche le menu d&#39;acceuil et gère les interactions avec le joueur." alt="" coords="108,141,276,168"/>
+<area shape="rect" id="node13" href="$d6/d46/menus_8h.html#aa1042f350a66ae56b754f3bf22556405" title="Affiche le menu d&#39;acceuil et gère les interactions avec le joueur." alt="" coords="108,193,276,234"/>
+<area shape="rect" id="node14" href="$d6/d46/menus_8h.html#a1ff516df4d202f56e051c3c040ee87b5" title="Affiche le menu pause et gère les interactions avec le joueur." alt="" coords="111,896,273,923"/>
+<area shape="rect" id="node15" href="$d6/d46/menus_8h.html#a4da3c6c1c4423889f8735c91a92e20d9" title="Affiche le menu pause et gère les interactions avec le joueur." alt="" coords="335,983,496,1025"/>
+<area shape="rect" id="node16" href="$d5/dae/affichage_8h.html#a9bfa693255703c0de636ceb7db7d8d2d" title="Fonction qui affiche les monstres." alt="" coords="123,259,261,285"/>
+<area shape="rect" id="node17" href="$d5/dae/affichage_8h.html#a6d78ce42135a25accbd3bf152dc94563" title="Fonction qui affiche les sorts." alt="" coords="360,309,471,336"/>
+<area shape="rect" id="node18" href="$d7/d64/liste__objet_8h.html#a2955c31ed7471524e38adb3ed821402e" title="Affiche les textures des objets équipés dans le menu inventaire." alt="" coords="324,715,507,741"/>
+<area shape="rect" id="node19" href="$d7/d64/liste__objet_8h.html#a4fe93e1fc39988acec686660009ed240" title="Affiche les textures des objets du sac dans le menu inventaire." alt="" coords="335,765,496,792"/>
+<area shape="rect" id="node20" href="$d2/d2f/personnage_8h.html#ad8c439be63cc83e7b5c4a0d33f62f639" title="Fonction qui charge une sauvegarde au format JSON." alt="" coords="338,918,493,959"/>
+<area shape="rect" id="node21" href="$d3/d7a/map_8c.html#a87fdc73350f70425b5529472974ecbbb" title=" " alt="" coords="373,157,457,184"/>
+</map>

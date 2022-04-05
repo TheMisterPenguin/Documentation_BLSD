@@ -1,0 +1,4 @@
+<map id="deplacer_texture_bas_gauche" name="deplacer_texture_bas_gauche">
+<area shape="rect" id="node1" title="La texture est déplacée vers le coin inférieur gauche de l&#39;écran." alt="" coords="5,5,168,47"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#a6a61a69139c9efe60f3b382747493870" title="Place un rectangle en haut à droite de l&#39;écran puis le replace à partir de cette origine." alt="" coords="216,5,363,47"/>
+</map>

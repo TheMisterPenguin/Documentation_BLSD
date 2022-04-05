@@ -1,0 +1,5 @@
+<map id="get_screen_center" name="get_screen_center">
+<area shape="rect" id="node1" title=" " alt="" coords="164,31,305,57"/>
+<area shape="rect" id="node2" href="$d5/dae/affichage_8h.html#a6bd4bd87195563a7315afb0fda7fe6d7" title="Fonction qui permet de placer un rectangle au centre de l&#39;écran sur l&#39;axe des x." alt="" coords="5,5,116,32"/>
+<area shape="rect" id="node3" href="$d5/dae/affichage_8h.html#adfcad3e29121806faaa438925ed845ab" title="Fonction qui permet de placer un rectangle au centre de l&#39;écran sur l&#39;axe des y." alt="" coords="5,56,116,83"/>
+</map>

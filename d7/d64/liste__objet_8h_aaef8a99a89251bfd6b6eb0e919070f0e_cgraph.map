@@ -1,0 +1,4 @@
+<map id="detruire_liste_objet" name="detruire_liste_objet">
+<area shape="rect" id="node1" title="Détruit une liste d&#39;objets." alt="" coords="5,5,153,32"/>
+<area shape="rect" id="node2" href="$d2/dd1/objet_8c.html#a9903bbbae9d8ad00d41b6e903d459877" title="Libère la mémoire allouée à un objet." alt="" coords="201,5,315,32"/>
+</map>

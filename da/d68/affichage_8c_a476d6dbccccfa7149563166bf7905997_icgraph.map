@@ -1,0 +1,4 @@
+<map id="rects_egal_y" name="rects_egal_y">
+<area shape="rect" id="node1" title="Fonction qui permet de savoir si deux rectangles sont égaux sur l&#39;axe y." alt="" coords="211,5,315,32"/>
+<area shape="rect" id="node2" href="$d5/dae/affichage_8h.html#a1479d2bcf35df66e73306d28d9ea0e13" title="Permet de déplacer le personnage principal de y unités verticales sur la map." alt="" coords="5,5,163,32"/>
+</map>

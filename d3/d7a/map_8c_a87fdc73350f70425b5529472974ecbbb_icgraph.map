@@ -1,0 +1,7 @@
+<map id="transition" name="transition">
+<area shape="rect" id="node1" title=" " alt="" coords="221,93,305,120"/>
+<area shape="rect" id="node2" href="$d6/d46/menus_8h.html#a1c8778affd5380fae88f7ce24787c8ea" title="Affiche le menu d&#39;acceuil et gère les interactions avec le joueur." alt="" coords="5,5,173,32"/>
+<area shape="rect" id="node3" href="$d6/d46/menus_8h.html#aa1042f350a66ae56b754f3bf22556405" title="Affiche le menu d&#39;acceuil et gère les interactions avec le joueur." alt="" coords="5,57,173,98"/>
+<area shape="rect" id="node4" href="$d5/dae/affichage_8h.html#aa536721b7c2a9adac6ef4f2ffb83074e" title="Permet de déplacer le personnage de x unités horizontales sur la map." alt="" coords="11,123,168,149"/>
+<area shape="rect" id="node5" href="$d5/dae/affichage_8h.html#a1479d2bcf35df66e73306d28d9ea0e13" title="Permet de déplacer le personnage principal de y unités verticales sur la map." alt="" coords="11,173,168,200"/>
+</map>

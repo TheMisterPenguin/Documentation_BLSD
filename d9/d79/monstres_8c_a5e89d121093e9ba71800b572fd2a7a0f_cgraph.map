@@ -1,0 +1,4 @@
+<map id="monstre_en_garde" name="monstre_en_garde">
+<area shape="rect" id="node1" title="Fonction qui met à jour la texture du monstre sur la position de garde (immobile)" alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#a0843b69b213a0b2f2645ad6158e00bff" title="Fonction qui positionne la texture au n&#45;ème sprite sur l&#39;axe des x." alt="" coords="196,5,355,32"/>
+</map>

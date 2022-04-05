@@ -1,0 +1,5 @@
+<map id="agro_monstre" name="agro_monstre">
+<area shape="rect" id="node1" title="Fonction qui met à jour la texture d&#39;un monstre lorsqu&#39;il est dans sa phase d&#39;attaque." alt="" coords="5,31,117,57"/>
+<area shape="rect" id="node2" href="$d9/d79/monstres_8c.html#a5a99ac9f9eeb2c828ec061d1677f6344" title="Fonction qui met à jour la texture du monstre &quot;knight&quot; lorsqu&#39;il est dans sa phase d&#39;attaque (reboucl..." alt="" coords="169,5,268,32"/>
+<area shape="rect" id="node3" href="$d9/d79/monstres_8c.html#adaacc2ea168601cb189fcdfada2be990" title="Fonction qui met à jour la texture du monstre &quot;witcher&quot; lorsqu&#39;il est dans sa phase d&#39;attaque." alt="" coords="165,56,272,83"/>
+</map>

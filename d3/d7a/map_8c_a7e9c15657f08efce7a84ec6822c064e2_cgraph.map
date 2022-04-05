@@ -1,0 +1,6 @@
+<map id="tp_joueurs" name="tp_joueurs">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,96,83"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#ad92b6b4765071f03f0a44087e6355bbd" title="Renvoie les coordonnées du centre du rectangle." alt="" coords="170,5,293,32"/>
+<area shape="rect" id="node3" href="$da/d68/affichage_8c.html#aad94b2ce0d93f581c0f82b0467a8d2ed" title="Renvoie les coordonnées du centre du rectangle." alt="" coords="367,85,533,112"/>
+<area shape="rect" id="node4" href="$da/d68/affichage_8c.html#a26cf1d2055162e3bf7166de2f55902f9" title="Fonction qui permet de placer le centre du rectangle donné en paramètre à un point précis." alt="" coords="144,107,319,149"/>
+</map>

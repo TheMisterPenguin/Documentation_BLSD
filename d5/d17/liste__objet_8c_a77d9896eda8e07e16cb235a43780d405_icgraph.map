@@ -1,0 +1,4 @@
+<map id="placer_objet_sac" name="placer_objet_sac">
+<area shape="rect" id="node1" title="Place la texture d&#39;un objet contenu dans une liste d&#39;objet dans le sac depuis le menu inventaire selo..." alt="" coords="215,5,345,32"/>
+<area shape="rect" id="node2" href="$d7/d64/liste__objet_8h.html#a4fe93e1fc39988acec686660009ed240" title="Affiche les textures des objets du sac dans le menu inventaire." alt="" coords="5,5,167,32"/>
+</map>

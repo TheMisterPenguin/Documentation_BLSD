@@ -1,0 +1,5 @@
+<map id="creer_objet" name="creer_objet">
+<area shape="rect" id="node1" title="Créé un objet du jeu." alt="" coords="408,31,503,57"/>
+<area shape="rect" id="node2" href="$d7/d64/liste__objet_8h.html#aaff80db1b5b4d0f49ddb960a94d4be95" title="Créé une liste d&#39;objets et la remplit à l&#39;aide du fichier des objets du jeu." alt="" coords="229,5,360,32"/>
+<area shape="rect" id="node3" href="$d9/d66/test__inventaire_8c.html#ae7e5e7ed7946211586fc6c19e42443d0" title=" " alt="" coords="5,31,181,57"/>
+</map>

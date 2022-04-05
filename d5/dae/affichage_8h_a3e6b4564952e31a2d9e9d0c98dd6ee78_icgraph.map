@@ -1,0 +1,6 @@
+<map id="def_texture_taille" name="def_texture_taille">
+<area shape="rect" id="node1" title="Fonction qui permet de définir exactement la taille de la texture." alt="" coords="208,64,345,91"/>
+<area shape="rect" id="node2" href="$d0/d29/main_8c.html#afba04a756d78b062c9638acb7436beed" title=" " alt="" coords="29,5,137,32"/>
+<area shape="rect" id="node3" href="$d2/d2f/personnage_8h.html#ad8c439be63cc83e7b5c4a0d33f62f639" title="Fonction qui charge une sauvegarde au format JSON." alt="" coords="5,57,160,98"/>
+<area shape="rect" id="node4" href="$d3/d7a/map_8c.html#a87fdc73350f70425b5529472974ecbbb" title=" " alt="" coords="41,123,125,149"/>
+</map>

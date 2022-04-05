@@ -1,0 +1,4 @@
+<map id="rects_egal_x" name="rects_egal_x">
+<area shape="rect" id="node1" title="Fonction qui permet de savoir si deux rectangles sont égaux sur l&#39;axe x." alt="" coords="211,5,315,32"/>
+<area shape="rect" id="node2" href="$d5/dae/affichage_8h.html#aa536721b7c2a9adac6ef4f2ffb83074e" title="Permet de déplacer le personnage de x unités horizontales sur la map." alt="" coords="5,5,163,32"/>
+</map>

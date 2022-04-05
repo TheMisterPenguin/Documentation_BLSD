@@ -1,0 +1,6 @@
+<map id="init_animations" name="init_animations">
+<area shape="rect" id="node1" title="Initialise les textures des animations." alt="" coords="5,31,128,57"/>
+<area shape="rect" id="node2" href="$d0/ddc/listes_8c.html#a5460022305fdfacd6e0864968fea1841" title="Fonction qui permet d&#39;ajouter un élément à droite de l&#39;élément courant." alt="" coords="333,5,425,32"/>
+<area shape="rect" id="node3" href="$da/d68/affichage_8c.html#a59fc51b629cfed9815495f235dae78e0" title="Fonction qui renvoie, charge une texture et la prépare à se faire afficher." alt="" coords="176,31,285,57"/>
+<area shape="rect" id="node4" href="$d0/ddc/listes_8c.html#a44494ff9efed6cd1416119b4a4f3dca2" title="Fonction qui permet de créer une liste." alt="" coords="191,81,270,108"/>
+</map>

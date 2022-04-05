@@ -1,0 +1,5 @@
+<map id="equiper_objet" name="equiper_objet">
+<area shape="rect" id="node1" title="Fonction qui permet de passer un objet du sac(non&#45;équipé) à un emplacement d&#39;équipement(équipé) dans ..." alt="" coords="229,31,340,57"/>
+<area shape="rect" id="node2" href="$d2/d9f/inventaire_8h.html#af4759298331c6887427f1a2137910ad2" title="Équipe le joueur de l&#39;objet contenu dans un slot de l&#39;inventaire (sac)" alt="" coords="28,5,159,32"/>
+<area shape="rect" id="node3" href="$d9/d66/test__inventaire_8c.html#ae7e5e7ed7946211586fc6c19e42443d0" title=" " alt="" coords="5,56,181,83"/>
+</map>

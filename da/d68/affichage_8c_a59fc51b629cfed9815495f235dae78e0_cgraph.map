@@ -1,0 +1,4 @@
+<map id="creer_texture" name="creer_texture">
+<area shape="rect" id="node1" title="Fonction qui renvoie, charge une texture et la prépare à se faire afficher." alt="" coords="5,5,115,32"/>
+<area shape="rect" id="node2" href="$d0/ddc/listes_8c.html#a5460022305fdfacd6e0864968fea1841" title="Fonction qui permet d&#39;ajouter un élément à droite de l&#39;élément courant." alt="" coords="163,5,255,32"/>
+</map>

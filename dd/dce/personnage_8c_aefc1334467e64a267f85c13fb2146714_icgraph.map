@@ -1,0 +1,4 @@
+<map id="maj_statistiques" name="maj_statistiques">
+<area shape="rect" id="node1" title="Fonction qui met à jour les statistiques d&#39;un joueur lors d&#39;un passage de niveau." alt="" coords="124,5,255,32"/>
+<area shape="rect" id="node2" href="$d2/d2f/personnage_8h.html#a3082b9ef9df15ce021d06dccaa1e9f2c" title="Fonction qui gère le passage de niveau d&#39;un joueur." alt="" coords="5,5,76,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="modification_inventaire" name="modification_inventaire">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,181,108"/>
+<area shape="rect" id="node2" href="$d5/d17/liste__objet_8c.html#aaff80db1b5b4d0f49ddb960a94d4be95" title="Créé une liste d&#39;objets et la remplit à l&#39;aide du fichier des objets du jeu." alt="" coords="229,5,360,32"/>
+<area shape="rect" id="node3" href="$d2/dd1/objet_8c.html#a85e95708f68baa868d64811e0259c340" title="Créé un objet du jeu." alt="" coords="408,31,503,57"/>
+<area shape="rect" id="node4" href="$d4/d04/inventaire_8c.html#a699ab6b7030b61f08e85b59355360a04" title="Fonction qui permet de passer un objet du sac(non&#45;équipé) à un emplacement d&#39;équipement(équipé) dans ..." alt="" coords="239,107,350,133"/>
+<area shape="rect" id="node5" href="$d4/d04/inventaire_8c.html#a1144d923a9a0174ae254109cd825c758" title="Fonction qui permet de mettre un objet trouvé dans le sac(inventaire)" alt="" coords="233,157,356,184"/>
+</map>

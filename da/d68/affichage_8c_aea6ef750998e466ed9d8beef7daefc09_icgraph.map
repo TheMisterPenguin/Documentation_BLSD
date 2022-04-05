@@ -1,0 +1,4 @@
+<map id="init_textures_joueur" name="init_textures_joueur">
+<area shape="rect" id="node1" title="Fonction qui creer et renvoie une liste de textures pour le personnage (joueur)" alt="" coords="156,5,308,32"/>
+<area shape="rect" id="node2" href="$dd/dce/personnage_8c.html#a0995a1c7be1391b4a127382999a450dd" title=" " alt="" coords="5,5,108,32"/>
+</map>

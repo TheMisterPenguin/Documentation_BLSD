@@ -1,0 +1,4 @@
+<map id="levelup" name="levelup">
+<area shape="rect" id="node1" title="Fonction qui gère le passage de niveau d&#39;un joueur." alt="" coords="5,5,76,32"/>
+<area shape="rect" id="node2" href="$dd/dce/personnage_8c.html#aefc1334467e64a267f85c13fb2146714" title="Fonction qui met à jour les statistiques d&#39;un joueur lors d&#39;un passage de niveau." alt="" coords="124,5,255,32"/>
+</map>

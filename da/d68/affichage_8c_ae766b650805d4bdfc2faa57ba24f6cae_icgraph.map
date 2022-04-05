@@ -1,0 +1,11 @@
+<map id="deplacer_rect_origine" name="deplacer_rect_origine">
+<area shape="rect" id="node1" title="Déplace un rectangle depuis l&#39;origine de l&#39;écran." alt="" coords="429,182,592,209"/>
+<area shape="rect" id="node2" href="$d6/d46/menus_8h.html#a98b87de7b6779d1ea4db3543621cc3cb" title=" " alt="" coords="5,18,149,45"/>
+<area shape="rect" id="node3" href="$d6/d46/menus_8h.html#afcde784ea1d5fb8c9fd6436fa063c5f2" title="Affiche l&#39;inventaire et gère les interactions avec l&#39;utilisateur." alt="" coords="5,183,149,224"/>
+<area shape="rect" id="node4" href="$d6/d46/menus_8h.html#a1c8778affd5380fae88f7ce24787c8ea" title="Affiche le menu d&#39;acceuil et gère les interactions avec le joueur." alt="" coords="205,94,373,121"/>
+<area shape="rect" id="node5" href="$d6/d46/menus_8h.html#aa1042f350a66ae56b754f3bf22556405" title="Affiche le menu d&#39;acceuil et gère les interactions avec le joueur." alt="" coords="205,146,373,187"/>
+<area shape="rect" id="node6" href="$d6/d46/menus_8h.html#a1ff516df4d202f56e051c3c040ee87b5" title="Affiche le menu pause et gère les interactions avec le joueur." alt="" coords="209,212,370,238"/>
+<area shape="rect" id="node7" href="$d6/d46/menus_8h.html#a4da3c6c1c4423889f8735c91a92e20d9" title="Affiche le menu pause et gère les interactions avec le joueur." alt="" coords="209,263,370,304"/>
+<area shape="rect" id="node8" href="$d7/d64/liste__objet_8h.html#a2955c31ed7471524e38adb3ed821402e" title="Affiche les textures des objets équipés dans le menu inventaire." alt="" coords="198,44,381,70"/>
+<area shape="rect" id="node9" href="$d5/dae/affichage_8h.html#a48d7af885eb3fdd6655cf83b85f454c9" title="Déplace l&#39;origine de la texture aux coordonnées données." alt="" coords="197,380,381,406"/>
+</map>

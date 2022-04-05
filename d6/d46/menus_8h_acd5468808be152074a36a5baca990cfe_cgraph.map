@@ -1,0 +1,4 @@
+<map id="creer_inventaire_j2" name="creer_inventaire_j2">
+<area shape="rect" id="node1" title="Créer l&#39;inventaire du joueur 2." alt="" coords="5,5,152,32"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#a59fc51b629cfed9815495f235dae78e0" title="Fonction qui renvoie, charge une texture et la prépare à se faire afficher." alt="" coords="200,5,309,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="sorts.h" name="sorts.h">
+<area shape="rect" id="node1" title="Fichier contenant toutes les définitions concernant les sorts." alt="" coords="311,5,377,32"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html" title="Fonctions liées au module affichage." alt="" coords="5,80,99,107"/>
+<area shape="rect" id="node3" href="$de/dde/boss_8c.html" title=" " alt="" coords="123,80,186,107"/>
+<area shape="rect" id="node4" href="$d3/d7a/map_8c.html" title="Fonctions de gestion de la map." alt="" coords="210,80,273,107"/>
+<area shape="rect" id="node5" href="$d9/d79/monstres_8c.html" title="Fichier contenant toutes les fonctions concernant les monstres." alt="" coords="297,80,391,107"/>
+<area shape="rect" id="node6" href="$dd/dce/personnage_8c.html" title="Fichier contenant toutes les fonctions concernant le personnage." alt="" coords="416,80,525,107"/>
+<area shape="rect" id="node7" href="$d0/d58/sorts_8c.html" title="Fichier contenant toutes les fonctions concernant les sorts." alt="" coords="550,80,615,107"/>
+<area shape="rect" id="node8" href="$d1/d0f/commun_8h.html" title="Fichier contenant les headers nécessaires au programme principal." alt="" coords="640,80,731,107"/>
+</map>

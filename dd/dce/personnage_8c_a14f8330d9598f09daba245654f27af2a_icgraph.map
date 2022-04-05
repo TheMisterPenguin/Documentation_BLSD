@@ -1,0 +1,7 @@
+<map id="distance_x_joueur" name="distance_x_joueur">
+<area shape="rect" id="node1" title="Renvoie la distance séparant le joueur d&#39;une entité définit par sa collision sur l&#39;axe des abscisses." alt="" coords="223,85,363,112"/>
+<area shape="rect" id="node2" href="$d2/d2f/personnage_8h.html#a6ba18ba0f6072ebcfceca1d6b8ade72f" title="Renvoie la distance séparant le joueur d&#39;une entité définit par sa collision." alt="" coords="27,5,153,32"/>
+<area shape="rect" id="node3" href="$d9/d79/monstres_8c.html#ade193545f6db261984a8721ee32529c1" title="Fonction qui met à jour la texture du monstre de sorte à ce qu&#39;il fuit le joueur." alt="" coords="44,56,136,83"/>
+<area shape="rect" id="node4" href="$d9/d79/monstres_8c.html#abe4995c32e5ac7e7a45096df239baa52" title="Fonction qui met à jour la texture du monstre pour qu&#39;il soit orienté vers le joueur." alt="" coords="5,107,175,149"/>
+<area shape="rect" id="node5" href="$da/df7/sorts_8h.html#a780d77b20da701ce7042b3aaed80fdc2" title="Fonction qui met à jour la texture sort de façon à ce qu&#39;elle soit orienté vers le joueur." alt="" coords="20,173,160,214"/>
+</map>

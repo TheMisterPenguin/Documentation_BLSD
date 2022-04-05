@@ -1,0 +1,5 @@
+<map id="oter_elt" name="oter_elt">
+<area shape="rect" id="node1" title="Fonction qui permet de supprimer un élément de la liste." alt="" coords="5,5,77,32"/>
+<area shape="rect" id="node2" href="$d0/ddc/listes_8c.html#a0636ccaaa4306ef8525a26cadc4a4805" title="Fonction booléenne qui permet de savoir si ll&#39;on est actuellement hors de la liste." alt="" coords="244,5,329,32"/>
+<area shape="rect" id="node3" href="$d0/ddc/listes_8c.html#ad6061cfcccc3fe717413526943f7bddc" title="Fonction qui permet de passer à l&#39;élément suivant dans la liste." alt="" coords="125,31,196,57"/>
+</map>

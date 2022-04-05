@@ -1,0 +1,8 @@
+<map id="agro_witcher" name="agro_witcher">
+<area shape="rect" id="node1" title="Fonction qui met à jour la texture du monstre &quot;witcher&quot; lorsqu&#39;il est dans sa phase d&#39;attaque." alt="" coords="5,107,112,133"/>
+<area shape="rect" id="node2" href="$d0/d58/sorts_8c.html#ae58ae0350fa823a85aaff7b988b4ce9c" title="Fonction qui creer un sort orienté vers le joueur." alt="" coords="171,5,319,32"/>
+<area shape="rect" id="node3" href="$d9/d79/monstres_8c.html#ade193545f6db261984a8721ee32529c1" title="Fonction qui met à jour la texture du monstre de sorte à ce qu&#39;il fuit le joueur." alt="" coords="199,56,291,83"/>
+<area shape="rect" id="node4" href="$d9/d79/monstres_8c.html#a3e5db9547762355c6e3c68b6cd43f17a" title="Fonction qui met à jour la texture du monstre sur la position d&#39;attaque." alt="" coords="178,107,311,133"/>
+<area shape="rect" id="node5" href="$da/d68/affichage_8c.html#ae4bffa3eb5b67a9316544428c25bdc44" title="Fonction qui positionne la texture au n&#45;ème sprite sur l&#39;axe des y." alt="" coords="377,132,536,159"/>
+<area shape="rect" id="node6" href="$d9/d79/monstres_8c.html#abe4995c32e5ac7e7a45096df239baa52" title="Fonction qui met à jour la texture du monstre pour qu&#39;il soit orienté vers le joueur." alt="" coords="160,209,329,250"/>
+</map>

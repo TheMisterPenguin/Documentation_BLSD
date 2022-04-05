@@ -1,0 +1,5 @@
+<map id="creer_monstre" name="creer_monstre">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,121,61"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#a59fc51b629cfed9815495f235dae78e0" title="Fonction qui renvoie, charge une texture et la prépare à se faire afficher." alt="" coords="199,5,308,32"/>
+<area shape="rect" id="node3" href="$d9/d79/monstres_8c.html#a46bbe288759d918b5391361c7abf41d5" title="Convertit une chaîne de caractères en type de monstre." alt="" coords="169,57,337,98"/>
+</map>

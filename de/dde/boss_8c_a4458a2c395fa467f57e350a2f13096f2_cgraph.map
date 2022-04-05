@@ -1,0 +1,6 @@
+<map id="affichage_clonage_boss" name="affichage_clonage_boss">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,183,83"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#a47b9be5462def4189b86dcf60f3a29a5" title="Affiche la texture donnée en paramètre à l&#39;écran." alt="" coords="260,5,385,32"/>
+<area shape="rect" id="node3" href="$da/d68/affichage_8c.html#a48d7af885eb3fdd6655cf83b85f454c9" title="Déplace l&#39;origine de la texture aux coordonnées données." alt="" coords="231,56,415,83"/>
+<area shape="rect" id="node4" href="$da/d68/affichage_8c.html#a83f1b5ddb558420c53c41071e559a8ff" title="Fonction qui permet de placer 2 textures aux mêmes endroit à l&#39;écran." alt="" coords="245,107,400,133"/>
+</map>

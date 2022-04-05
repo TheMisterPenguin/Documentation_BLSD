@@ -1,0 +1,4 @@
+<map id="afficher_inventaire_manette" name="afficher_inventaire_manette">
+<area shape="rect" id="node1" title="Affiche l&#39;inventaire et gère les interactions avec l&#39;utilisateur." alt="" coords="217,5,361,47"/>
+<area shape="rect" id="node2" href="$d0/deb/event_8c.html#af96942d682e7c15b6ff75b89f49808e0" title="Fonction qui gère les événements lorsque l&#39;on appuye sur un bouton de la manette." alt="" coords="5,13,169,39"/>
+</map>

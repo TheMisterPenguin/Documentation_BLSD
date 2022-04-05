@@ -1,0 +1,4 @@
+<map id="deplacement_y_joueur_secondaire" name="deplacement_y_joueur_secondaire">
+<area shape="rect" id="node1" title="Permet de déplacer un joueur secondaire de y unités verticales sur la map." alt="" coords="108,5,279,47"/>
+<area shape="rect" id="node2" href="$d0/d29/main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,13,60,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="creer_coffre" name="creer_coffre">
+<area shape="rect" id="node1" title="Fonction qui creer et initialise un coffre sur une carte." alt="" coords="5,35,104,61"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#a59fc51b629cfed9815495f235dae78e0" title="Fonction qui renvoie, charge une texture et la prépare à se faire afficher." alt="" coords="173,5,282,32"/>
+<area shape="rect" id="node3" href="$d4/db3/coffres_8c.html#a429c13dfc5bc32612208892805c750ad" title="Convertit une chaîne de caractères en type de coffre." alt="" coords="152,57,303,98"/>
+</map>

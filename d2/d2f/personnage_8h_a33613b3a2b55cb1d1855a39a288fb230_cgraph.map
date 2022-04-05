@@ -1,0 +1,4 @@
+<map id="detruire_joueur" name="detruire_joueur">
+<area shape="rect" id="node1" title="Fonction qui détruit un joueur." alt="" coords="5,5,127,32"/>
+<area shape="rect" id="node2" href="$d4/d04/inventaire_8c.html#a5475fde997270b9d30ea85049950f141" title="Détruit un inventaire." alt="" coords="175,5,321,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="coffres.h" name="coffres.h">
+<area shape="rect" id="node1" title="Fonctions concernant les coffres." alt="" coords="80,5,159,32"/>
+<area shape="rect" id="node2" href="$d1/daa/definition__commun_8h.html" title="Contient toutes les définitions communes à tout les fichiers." alt="" coords="5,229,164,256"/>
+<area shape="rect" id="node3" href="$d5/dae/affichage_8h.html" title="Fichier contenant les définitions et les fonctions liées au module affichage." alt="" coords="72,80,167,107"/>
+<area shape="rect" id="node4" href="$dc/db7/map_8h.html" title="Définitions des fonctions de gestion de la map." alt="" coords="123,155,185,181"/>
+</map>

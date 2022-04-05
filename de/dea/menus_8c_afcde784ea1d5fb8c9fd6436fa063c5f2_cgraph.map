@@ -1,0 +1,11 @@
+<map id="afficher_inventaire_manette" name="afficher_inventaire_manette">
+<area shape="rect" id="node1" title="Affiche l&#39;inventaire et gère les interactions avec l&#39;utilisateur." alt="" coords="5,158,149,200"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#a47b9be5462def4189b86dcf60f3a29a5" title="Affiche la texture donnée en paramètre à l&#39;écran." alt="" coords="447,39,572,66"/>
+<area shape="rect" id="node3" href="$d5/d17/liste__objet_8c.html#a2955c31ed7471524e38adb3ed821402e" title="Affiche les textures des objets équipés dans le menu inventaire." alt="" coords="197,90,380,116"/>
+<area shape="rect" id="node4" href="$da/d68/affichage_8c.html#ae766b650805d4bdfc2faa57ba24f6cae" title="Déplace un rectangle depuis l&#39;origine de l&#39;écran." alt="" coords="428,115,591,142"/>
+<area shape="rect" id="node5" href="$d5/d17/liste__objet_8c.html#a4fe93e1fc39988acec686660009ed240" title="Affiche les textures des objets du sac dans le menu inventaire." alt="" coords="208,39,369,66"/>
+<area shape="rect" id="node6" href="$d4/d04/inventaire_8c.html#a8aa9d5f1d7be0ac4221f7343d329c4c4" title="Déséquipe le joueur de l&#39;objet contenu dans un slot de l&#39;inventaire (equipe)" alt="" coords="226,191,351,218"/>
+<area shape="rect" id="node7" href="$de/dea/menus_8c.html#ad2b07826ade07b3fcb204ef0b20b56e6" title="Fonction qui permet d&#39;afficher un rectangle à l&#39;écran avec un épaisseur choisie." alt="" coords="211,242,367,268"/>
+<area shape="rect" id="node8" href="$d4/d04/inventaire_8c.html#af4759298331c6887427f1a2137910ad2" title="Équipe le joueur de l&#39;objet contenu dans un slot de l&#39;inventaire (sac)" alt="" coords="223,292,354,319"/>
+<area shape="rect" id="node9" href="$d1/d41/init__close_8c.html#affaacddc6fe16ed3d818bf7e0c9798eb" title="Fonction qui appelle les fonctions pour terminer le programme." alt="" coords="214,343,363,370"/>
+</map>

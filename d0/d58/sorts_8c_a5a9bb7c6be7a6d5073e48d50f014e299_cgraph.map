@@ -1,0 +1,11 @@
+<map id="action_sort" name="action_sort">
+<area shape="rect" id="node1" title=" " alt="" coords="5,187,100,213"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#ab41df9da5f22ea2edd48f4f6d0562158" title="Fonction qui donne l&#39;indice sur l&#39;axe des abscisses actuelle de la texture." alt="" coords="171,5,300,32"/>
+<area shape="rect" id="node3" href="$da/d68/affichage_8c.html#a7fc4f1865011306b55987cab6f1cc5a0" title="Fonction qui permet le déplacement d&#39;une entité" alt="" coords="152,56,319,83"/>
+<area shape="rect" id="node4" href="$d0/ddc/listes_8c.html#a37afb4f802843bd21792cd494296d9dc" title="Fonction qui renvoie l&#39;élément courant." alt="" coords="411,132,497,159"/>
+<area shape="rect" id="node5" href="$da/d68/affichage_8c.html#ad62d8b671f591eef20a7f3347067e729" title="Fonction qui permet le déplacement d&#39;une entité" alt="" coords="152,157,319,184"/>
+<area shape="rect" id="node6" href="$da/d68/affichage_8c.html#aa18ada4ee80cd3ec4a96012f5bfdf469" title="Fonction qui détruit une collision donnée dans une liste de collisions." alt="" coords="168,209,303,250"/>
+<area shape="rect" id="node7" href="$d0/ddc/listes_8c.html#a59c2257ab1cda9f78444e6b71a8a0c8d" title="Fonction qui permet de supprimer un élément de la liste." alt="" coords="418,260,490,287"/>
+<area shape="rect" id="node8" href="$da/d68/affichage_8c.html#aad94b2ce0d93f581c0f82b0467a8d2ed" title="Renvoie les coordonnées du centre du rectangle." alt="" coords="371,340,537,367"/>
+<area shape="rect" id="node9" href="$da/d68/affichage_8c.html#a26cf1d2055162e3bf7166de2f55902f9" title="Fonction qui permet de placer le centre du rectangle donné en paramètre à un point précis." alt="" coords="148,377,323,418"/>
+</map>

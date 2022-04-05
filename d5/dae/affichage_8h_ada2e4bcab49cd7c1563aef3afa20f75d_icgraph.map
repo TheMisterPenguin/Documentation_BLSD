@@ -1,0 +1,5 @@
+<map id="rect_centre_rect_y" name="rect_centre_rect_y">
+<area shape="rect" id="node1" title="Fonction qui permet de placer un rectangle au centre d&#39;un autre sur l&#39;axe des y." alt="" coords="180,31,323,57"/>
+<area shape="rect" id="node2" href="$dc/db7/map_8h.html#aad95fee9e6bf2bd4c8ae74d98e1a6821" title="Fonction qui initialise les textures qui serviront de buffer d&#39;affichage au moteur du jeu." alt="" coords="9,5,128,32"/>
+<area shape="rect" id="node3" href="$d5/dae/affichage_8h.html#af70d121ff2c41380da955ae836b109eb" title="Fonction qui permet de placer un rectangle au centre d&#39;un autre." alt="" coords="5,56,132,83"/>
+</map>

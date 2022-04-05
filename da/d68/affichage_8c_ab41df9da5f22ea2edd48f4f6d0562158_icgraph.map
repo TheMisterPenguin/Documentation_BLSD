@@ -1,0 +1,5 @@
+<map id="current_frame_x" name="current_frame_x">
+<area shape="rect" id="node1" title="Fonction qui donne l&#39;indice sur l&#39;axe des abscisses actuelle de la texture." alt="" coords="191,31,320,57"/>
+<area shape="rect" id="node2" href="$d0/d58/sorts_8c.html#a5a9bb7c6be7a6d5073e48d50f014e299" title=" " alt="" coords="27,5,121,32"/>
+<area shape="rect" id="node3" href="$d9/d79/monstres_8c.html#a9f2a99c654f98bb133e186b83a0c7473" title="Fonction qui met à jour la texture du monstre pour ses déplacements." alt="" coords="5,56,143,83"/>
+</map>

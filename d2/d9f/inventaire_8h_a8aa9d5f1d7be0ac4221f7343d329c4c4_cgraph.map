@@ -1,0 +1,4 @@
+<map id="desequiper_slot" name="desequiper_slot">
+<area shape="rect" id="node1" title="Déséquipe le joueur de l&#39;objet contenu dans un slot de l&#39;inventaire (equipe)" alt="" coords="5,5,131,32"/>
+<area shape="rect" id="node2" href="$d4/d04/inventaire_8c.html#afbcc0f721ebc471ac4fb9cafd97fb77a" title="Fonction qui permet de passer un objet d&#39;un emplacement d&#39;équipement(équipé) au sac(non&#45;équipé) dans ..." alt="" coords="179,5,273,32"/>
+</map>

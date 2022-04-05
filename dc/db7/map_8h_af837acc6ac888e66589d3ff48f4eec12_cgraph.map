@@ -1,0 +1,11 @@
+<map id="detruire_map" name="detruire_map">
+<area shape="rect" id="node1" title="Fonction qui permet de détruire une map." alt="" coords="5,183,115,209"/>
+<area shape="rect" id="node2" href="$d0/ddc/listes_8c.html#a4597d1c1550e48dc54b54b240ab3c0e9" title="Détruit une liste en détruisant tout ses éléménts." alt="" coords="190,5,298,32"/>
+<area shape="rect" id="node3" href="$da/d68/affichage_8c.html#a6e1d5af117ac87c2c309507f4750dcb9" title="Fonction qui détruit une structure d&#39;affichage de texture passée en paramètre." alt="" coords="181,56,307,83"/>
+<area shape="rect" id="node4" href="$d0/ddc/listes_8c.html#a9c780173ba80450b8a01ba4c14963437" title="Fonction qui permet de se placer en tête de la liste." alt="" coords="381,259,452,285"/>
+<area shape="rect" id="node5" href="$d0/ddc/listes_8c.html#a0636ccaaa4306ef8525a26cadc4a4805" title="Fonction booléenne qui permet de savoir si ll&#39;on est actuellement hors de la liste." alt="" coords="508,208,593,235"/>
+<area shape="rect" id="node6" href="$d0/ddc/listes_8c.html#a59c2257ab1cda9f78444e6b71a8a0c8d" title="Fonction qui permet de supprimer un élément de la liste." alt="" coords="208,157,280,184"/>
+<area shape="rect" id="node7" href="$d0/ddc/listes_8c.html#ad6061cfcccc3fe717413526943f7bddc" title="Fonction qui permet de passer à l&#39;élément suivant dans la liste." alt="" coords="381,208,452,235"/>
+<area shape="rect" id="node8" href="$d0/ddc/listes_8c.html#ac84d5f990f188eed04f7670abf38b020" title="Fonction qui permet de selectionner l&#39;élément courant à partir d&#39;un élément précis." alt="" coords="163,309,325,336"/>
+<area shape="rect" id="node9" href="$d0/ddc/listes_8c.html#a37afb4f802843bd21792cd494296d9dc" title="Fonction qui renvoie l&#39;élément courant." alt="" coords="373,360,460,387"/>
+</map>

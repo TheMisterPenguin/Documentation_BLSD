@@ -1,0 +1,6 @@
+<map id="text_copier_position" name="text_copier_position">
+<area shape="rect" id="node1" title="Fonction qui permet de placer 2 textures aux mêmes endroit à l&#39;écran." alt="" coords="231,56,385,83"/>
+<area shape="rect" id="node2" href="$de/dde/boss_8c.html#a4458a2c395fa467f57e350a2f13096f2" title=" " alt="" coords="5,5,183,32"/>
+<area shape="rect" id="node3" href="$d0/deb/event_8c.html#a534aa8818b70710ba24c15d6c87b1b5e" title="Fonction qui gère les événements lorsque l&#39;on relache un bouton de la manette." alt="" coords="21,56,167,83"/>
+<area shape="rect" id="node4" href="$d0/deb/event_8c.html#ab35bbcfaf1fe479bd4f5d158db01d9e4" title=" " alt="" coords="53,107,135,133"/>
+</map>

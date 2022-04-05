@@ -1,0 +1,4 @@
+<map id="afficher_menu_pause" name="afficher_menu_pause">
+<area shape="rect" id="node1" title="Affiche le menu pause et gère les interactions avec le joueur." alt="" coords="136,5,297,32"/>
+<area shape="rect" id="node2" href="$d0/deb/event_8c.html#ab35bbcfaf1fe479bd4f5d158db01d9e4" title=" " alt="" coords="5,5,88,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="rush_joueur" name="rush_joueur">
+<area shape="rect" id="node1" title="Fonction qui met à jour la texture du monstre de sorte à ce qu&#39;il se deplace vers le joueur." alt="" coords="5,35,104,61"/>
+<area shape="rect" id="node2" href="$d9/d79/monstres_8c.html#a9f2a99c654f98bb133e186b83a0c7473" title="Fonction qui met à jour la texture du monstre pour ses déplacements." alt="" coords="168,5,305,32"/>
+<area shape="rect" id="node3" href="$d9/d79/monstres_8c.html#abe4995c32e5ac7e7a45096df239baa52" title="Fonction qui met à jour la texture du monstre pour qu&#39;il soit orienté vers le joueur." alt="" coords="152,57,321,98"/>
+</map>

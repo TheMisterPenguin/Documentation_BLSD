@@ -1,0 +1,4 @@
+<map id="orienter_sort_vers_joueur" name="orienter_sort_vers_joueur">
+<area shape="rect" id="node1" title="Fonction qui met à jour la texture sort de façon à ce qu&#39;elle soit orienté vers le joueur." alt="" coords="201,5,341,47"/>
+<area shape="rect" id="node2" href="$da/df7/sorts_8h.html#ae58ae0350fa823a85aaff7b988b4ce9c" title="Fonction qui creer un sort orienté vers le joueur." alt="" coords="5,13,153,39"/>
+</map>

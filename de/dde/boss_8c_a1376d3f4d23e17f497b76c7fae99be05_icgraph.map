@@ -1,0 +1,4 @@
+<map id="affichage_chargement_attaque_boss" name="affichage_chargement_attaque_boss">
+<area shape="rect" id="node1" title="animation lancement d&#39;un sort" alt="" coords="176,5,343,47"/>
+<area shape="rect" id="node2" href="$de/dde/boss_8c.html#a1ce280469cd40ab2361f088050c1bbe3" title=" " alt="" coords="5,13,128,39"/>
+</map>

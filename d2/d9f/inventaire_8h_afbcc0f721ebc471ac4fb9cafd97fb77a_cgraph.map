@@ -1,0 +1,5 @@
+<map id="desequiper" name="desequiper">
+<area shape="rect" id="node1" title="Fonction qui permet de passer un objet d&#39;un emplacement d&#39;équipement(équipé) au sac(non&#45;équipé) dans ..." alt="" coords="5,31,100,57"/>
+<area shape="rect" id="node2" href="$dd/dce/personnage_8c.html#a5036a38157418caf698d5662fddeb947" title="Fonction qui affiche les statistiques d&#39;un joueur dans la console." alt="" coords="164,5,319,32"/>
+<area shape="rect" id="node3" href="$d4/d04/inventaire_8c.html#a1b70bc002675692d62ba7d5343341fd3" title="Fonction qui permet de modifier les statistiques du joueur selon ses objets équipés." alt="" coords="148,56,335,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="monstre_attaque" name="monstre_attaque">
+<area shape="rect" id="node1" title="Fonction qui met à jour la texture du monstre sur la position d&#39;attaque." alt="" coords="5,5,139,32"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#ae4bffa3eb5b67a9316544428c25bdc44" title="Fonction qui positionne la texture au n&#45;ème sprite sur l&#39;axe des y." alt="" coords="187,5,345,32"/>
+</map>

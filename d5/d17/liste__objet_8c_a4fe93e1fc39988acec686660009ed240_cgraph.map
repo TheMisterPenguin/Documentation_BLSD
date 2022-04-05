@@ -1,0 +1,5 @@
+<map id="afficher_textures_sac" name="afficher_textures_sac">
+<area shape="rect" id="node1" title="Affiche les textures des objets du sac dans le menu inventaire." alt="" coords="5,31,167,57"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#a47b9be5462def4189b86dcf60f3a29a5" title="Affiche la texture donnée en paramètre à l&#39;écran." alt="" coords="217,5,343,32"/>
+<area shape="rect" id="node3" href="$d5/d17/liste__objet_8c.html#a77d9896eda8e07e16cb235a43780d405" title="Place la texture d&#39;un objet contenu dans une liste d&#39;objet dans le sac depuis le menu inventaire selo..." alt="" coords="215,56,345,83"/>
+</map>

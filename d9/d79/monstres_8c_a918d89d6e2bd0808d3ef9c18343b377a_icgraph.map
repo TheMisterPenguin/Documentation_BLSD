@@ -1,0 +1,6 @@
+<map id="orienter_monstre" name="orienter_monstre">
+<area shape="rect" id="node1" title="Fonction qui met à jour la texture du monstre par rapport à son orientation." alt="" coords="223,64,357,91"/>
+<area shape="rect" id="node2" href="$d9/d79/monstres_8c.html#ade193545f6db261984a8721ee32529c1" title="Fonction qui met à jour la texture du monstre de sorte à ce qu&#39;il fuit le joueur." alt="" coords="44,5,136,32"/>
+<area shape="rect" id="node3" href="$d9/d79/monstres_8c.html#abe4995c32e5ac7e7a45096df239baa52" title="Fonction qui met à jour la texture du monstre pour qu&#39;il soit orienté vers le joueur." alt="" coords="5,57,175,98"/>
+<area shape="rect" id="node4" href="$d9/d79/monstres_8c.html#a06c50f23e69a9356eacb75924735d434" title="Fonction qui met à jour la texture d&#39;un monstre lorsqu&#39;il est dans sa phase passive." alt="" coords="30,123,150,149"/>
+</map>

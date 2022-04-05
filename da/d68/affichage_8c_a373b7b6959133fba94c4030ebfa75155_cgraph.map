@@ -1,0 +1,9 @@
+<map id="afficher_coffres" name="afficher_coffres">
+<area shape="rect" id="node1" title="Fonction qui affiche la texture des coffres." alt="" coords="5,132,128,159"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#a47b9be5462def4189b86dcf60f3a29a5" title="Affiche la texture donnée en paramètre à l&#39;écran." alt="" coords="176,5,301,32"/>
+<area shape="rect" id="node3" href="$d0/ddc/listes_8c.html#a9c780173ba80450b8a01ba4c14963437" title="Fonction qui permet de se placer en tête de la liste." alt="" coords="203,56,274,83"/>
+<area shape="rect" id="node4" href="$d0/ddc/listes_8c.html#abe07097bbae832dce242428fdb1d95b4" title="Fonction booléenne qui permet de savoir si la liste est vide." alt="" coords="349,81,435,108"/>
+<area shape="rect" id="node5" href="$d0/ddc/listes_8c.html#a0636ccaaa4306ef8525a26cadc4a4805" title="Fonction booléenne qui permet de savoir si ll&#39;on est actuellement hors de la liste." alt="" coords="349,208,435,235"/>
+<area shape="rect" id="node6" href="$d0/ddc/listes_8c.html#ad6061cfcccc3fe717413526943f7bddc" title="Fonction qui permet de passer à l&#39;élément suivant dans la liste." alt="" coords="203,208,274,235"/>
+<area shape="rect" id="node7" href="$d0/ddc/listes_8c.html#a37afb4f802843bd21792cd494296d9dc" title="Fonction qui renvoie l&#39;élément courant." alt="" coords="195,259,282,285"/>
+</map>

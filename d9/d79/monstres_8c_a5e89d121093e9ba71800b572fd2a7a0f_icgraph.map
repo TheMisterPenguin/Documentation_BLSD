@@ -1,0 +1,4 @@
+<map id="monstre_en_garde" name="monstre_en_garde">
+<area shape="rect" id="node1" title="Fonction qui met à jour la texture du monstre sur la position de garde (immobile)" alt="" coords="173,5,316,32"/>
+<area shape="rect" id="node2" href="$d9/d79/monstres_8c.html#a06c50f23e69a9356eacb75924735d434" title="Fonction qui met à jour la texture d&#39;un monstre lorsqu&#39;il est dans sa phase passive." alt="" coords="5,5,125,32"/>
+</map>

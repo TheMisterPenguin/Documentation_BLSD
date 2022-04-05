@@ -1,0 +1,5 @@
+<map id="afficher_textures_equipe" name="afficher_textures_equipe">
+<area shape="rect" id="node1" title="Affiche les textures des objets équipés dans le menu inventaire." alt="" coords="5,31,188,57"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#a47b9be5462def4189b86dcf60f3a29a5" title="Affiche la texture donnée en paramètre à l&#39;écran." alt="" coords="255,5,380,32"/>
+<area shape="rect" id="node3" href="$da/d68/affichage_8c.html#ae766b650805d4bdfc2faa57ba24f6cae" title="Déplace un rectangle depuis l&#39;origine de l&#39;écran." alt="" coords="236,56,399,83"/>
+</map>

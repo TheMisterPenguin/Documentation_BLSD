@@ -1,0 +1,4 @@
+<map id="modif_elt" name="modif_elt">
+<area shape="rect" id="node1" title="Fonction qui permet de modifier l&#39;élément courant." alt="" coords="5,5,89,32"/>
+<area shape="rect" id="node2" href="$d0/ddc/listes_8c.html#a0636ccaaa4306ef8525a26cadc4a4805" title="Fonction booléenne qui permet de savoir si ll&#39;on est actuellement hors de la liste." alt="" coords="137,5,223,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="orienter_monstre" name="orienter_monstre">
+<area shape="rect" id="node1" title="Fonction qui met à jour la texture du monstre par rapport à son orientation." alt="" coords="5,31,140,57"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#a0843b69b213a0b2f2645ad6158e00bff" title="Fonction qui positionne la texture au n&#45;ème sprite sur l&#39;axe des x." alt="" coords="188,5,347,32"/>
+<area shape="rect" id="node3" href="$da/d68/affichage_8c.html#ae4bffa3eb5b67a9316544428c25bdc44" title="Fonction qui positionne la texture au n&#45;ème sprite sur l&#39;axe des y." alt="" coords="188,56,347,83"/>
+</map>

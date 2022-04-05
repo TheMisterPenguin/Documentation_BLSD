@@ -1,0 +1,7 @@
+<map id="next_frame_joueur" name="next_frame_joueur">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,151,108"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#adf38042b72a9ceff2aebef3efe2af6bd" title=" " alt="" coords="199,5,357,32"/>
+<area shape="rect" id="node3" href="$da/d68/affichage_8c.html#ac5cde30d91e5bbd8e8b7db9c04229752" title="Fonction qui donne l&#39;indice sur l&#39;axe des ordonnées actuelle de la texture." alt="" coords="213,56,343,83"/>
+<area shape="rect" id="node4" href="$da/d68/affichage_8c.html#a7adca84e118cd2c0a47dc5f754a4a5b2" title="Fonction qui positionne la texture au sprite d&#39;après sur l&#39;axe des x." alt="" coords="222,107,334,133"/>
+<area shape="rect" id="node5" href="$da/d68/affichage_8c.html#ae4bffa3eb5b67a9316544428c25bdc44" title="Fonction qui positionne la texture au n&#45;ème sprite sur l&#39;axe des y." alt="" coords="199,157,357,184"/>
+</map>

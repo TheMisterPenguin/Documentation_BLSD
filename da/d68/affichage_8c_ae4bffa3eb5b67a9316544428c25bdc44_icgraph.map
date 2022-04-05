@@ -1,0 +1,10 @@
+<map id="next_frame_y_indice" name="next_frame_y_indice">
+<area shape="rect" id="node1" title="Fonction qui positionne la texture au n&#45;ème sprite sur l&#39;axe des y." alt="" coords="379,135,537,162"/>
+<area shape="rect" id="node2" href="$d9/d79/monstres_8c.html#adaacc2ea168601cb189fcdfada2be990" title="Fonction qui met à jour la texture du monstre &quot;witcher&quot; lorsqu&#39;il est dans sa phase d&#39;attaque." alt="" coords="5,34,112,60"/>
+<area shape="rect" id="node3" href="$d0/deb/event_8c.html#a534aa8818b70710ba24c15d6c87b1b5e" title="Fonction qui gère les événements lorsque l&#39;on relache un bouton de la manette." alt="" coords="173,34,318,60"/>
+<area shape="rect" id="node4" href="$d9/d79/monstres_8c.html#a3e5db9547762355c6e3c68b6cd43f17a" title="Fonction qui met à jour la texture du monstre sur la position d&#39;attaque." alt="" coords="179,84,312,111"/>
+<area shape="rect" id="node5" href="$d0/deb/event_8c.html#ad82a0fa86ea18b0674c6807f8951e1a3" title="Fonction qui gère les événements quand un bouton de la souris est relachée par un joueur." alt="" coords="182,135,309,162"/>
+<area shape="rect" id="node6" href="$d5/dae/affichage_8h.html#a28a886027c80e24f05ef6a6b9ae10568" title="Fait évoluer les animations en jeu." alt="" coords="160,186,331,212"/>
+<area shape="rect" id="node7" href="$d5/dae/affichage_8h.html#a668ba4cf805157557b09a5a71fd67c4b" title=" " alt="" coords="173,236,318,263"/>
+<area shape="rect" id="node8" href="$d9/d79/monstres_8c.html#a918d89d6e2bd0808d3ef9c18343b377a" title="Fonction qui met à jour la texture du monstre par rapport à son orientation." alt="" coords="178,287,313,314"/>
+</map>

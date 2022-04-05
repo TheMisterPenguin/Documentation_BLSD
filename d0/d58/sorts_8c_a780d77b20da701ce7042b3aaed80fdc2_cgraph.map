@@ -1,0 +1,6 @@
+<map id="orienter_sort_vers_joueur" name="orienter_sort_vers_joueur">
+<area shape="rect" id="node1" title="Fonction qui met à jour la texture sort de façon à ce qu&#39;elle soit orienté vers le joueur." alt="" coords="5,49,145,90"/>
+<area shape="rect" id="node2" href="$dd/dce/personnage_8c.html#a14f8330d9598f09daba245654f27af2a" title="Renvoie la distance séparant le joueur d&#39;une entité définit par sa collision sur l&#39;axe des abscisses." alt="" coords="203,5,343,32"/>
+<area shape="rect" id="node3" href="$dd/dce/personnage_8c.html#a0ae422db30a3dda1ba20e3e77a9a4db3" title="Renvoie la distance séparant le joueur d&#39;une entité définit par sa collision sur l&#39;axe des ordonnées." alt="" coords="203,56,343,83"/>
+<area shape="rect" id="node4" href="$da/d68/affichage_8c.html#a0843b69b213a0b2f2645ad6158e00bff" title="Fonction qui positionne la texture au n&#45;ème sprite sur l&#39;axe des x." alt="" coords="193,107,352,133"/>
+</map>

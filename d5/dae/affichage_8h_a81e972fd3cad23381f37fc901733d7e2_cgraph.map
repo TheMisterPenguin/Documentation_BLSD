@@ -1,0 +1,4 @@
+<map id="next_frame_y_indice" name="next_frame_y_indice">
+<area shape="rect" id="node1" title="Fonction qui positionne la texture au n&#45;ème sprite sur l&#39;axe des y." alt="" coords="5,5,164,32"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#a2201c110dd65bb833da125813d849273" title="Fonction qui détermine si la structure SDL_Rect ne dépasse pas la taille de la texture." alt="" coords="212,5,365,32"/>
+</map>

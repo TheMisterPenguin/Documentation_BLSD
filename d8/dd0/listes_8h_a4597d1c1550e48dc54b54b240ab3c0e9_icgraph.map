@@ -1,0 +1,6 @@
+<map id="detruire_liste" name="detruire_liste">
+<area shape="rect" id="node1" title="Détruit une liste en détruisant tout ses éléménts." alt="" coords="203,56,311,83"/>
+<area shape="rect" id="node2" href="$d1/d41/init__close_8c.html#acc7f4b4da74c22683312acf145e135e1" title="Fonction ajoutée à la liste de atexit() afin de libérer toute la mémoire allouée." alt="" coords="31,5,129,32"/>
+<area shape="rect" id="node3" href="$dc/db7/map_8h.html#af837acc6ac888e66589d3ff48f4eec12" title="Fonction qui permet de détruire une map." alt="" coords="25,56,135,83"/>
+<area shape="rect" id="node4" href="$d1/daa/definition__commun_8h.html#affaacddc6fe16ed3d818bf7e0c9798eb" title="Fonction qui appelle les fonctions pour terminer le programme." alt="" coords="5,107,155,133"/>
+</map>

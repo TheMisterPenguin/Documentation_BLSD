@@ -1,0 +1,6 @@
+<map id="marcher_monstre" name="marcher_monstre">
+<area shape="rect" id="node1" title="Fonction qui met à jour la texture du monstre pour ses déplacements." alt="" coords="173,56,311,83"/>
+<area shape="rect" id="node2" href="$d9/d79/monstres_8c.html#ade193545f6db261984a8721ee32529c1" title="Fonction qui met à jour la texture du monstre de sorte à ce qu&#39;il fuit le joueur." alt="" coords="19,5,111,32"/>
+<area shape="rect" id="node3" href="$d9/d79/monstres_8c.html#a06c50f23e69a9356eacb75924735d434" title="Fonction qui met à jour la texture d&#39;un monstre lorsqu&#39;il est dans sa phase passive." alt="" coords="5,56,125,83"/>
+<area shape="rect" id="node4" href="$d9/d79/monstres_8c.html#a4fc9ed0e280b942464e678001c278b5d" title="Fonction qui met à jour la texture du monstre de sorte à ce qu&#39;il se deplace vers le joueur." alt="" coords="16,107,115,133"/>
+</map>

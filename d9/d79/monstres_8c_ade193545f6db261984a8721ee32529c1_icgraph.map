@@ -1,0 +1,4 @@
+<map id="fuir_joueur" name="fuir_joueur">
+<area shape="rect" id="node1" title="Fonction qui met à jour la texture du monstre de sorte à ce qu&#39;il fuit le joueur." alt="" coords="160,5,252,32"/>
+<area shape="rect" id="node2" href="$d9/d79/monstres_8c.html#adaacc2ea168601cb189fcdfada2be990" title="Fonction qui met à jour la texture du monstre &quot;witcher&quot; lorsqu&#39;il est dans sa phase d&#39;attaque." alt="" coords="5,5,112,32"/>
+</map>

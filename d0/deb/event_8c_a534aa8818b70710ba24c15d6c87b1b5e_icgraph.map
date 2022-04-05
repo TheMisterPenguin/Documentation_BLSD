@@ -1,0 +1,4 @@
+<map id="joystick_button_up" name="joystick_button_up">
+<area shape="rect" id="node1" title="Fonction qui gère les événements lorsque l&#39;on relache un bouton de la manette." alt="" coords="201,5,347,32"/>
+<area shape="rect" id="node2" href="$dd/d20/event_8h.html#ac27091daa86f31b79780d6a91801fd11" title="Fonction qui gère les événements de la manette." alt="" coords="5,5,153,32"/>
+</map>

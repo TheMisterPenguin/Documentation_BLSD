@@ -1,0 +1,5 @@
+<map id="rect_centre_rect" name="rect_centre_rect">
+<area shape="rect" id="node1" title="Fonction qui permet de placer un rectangle au centre d&#39;un autre." alt="" coords="5,31,132,57"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#ab74333683d8d4816aa1331794b3b9e94" title="Fonction qui permet de placer un rectangle au centre d&#39;un autre sur l&#39;axe des x." alt="" coords="180,5,323,32"/>
+<area shape="rect" id="node3" href="$da/d68/affichage_8c.html#ada2e4bcab49cd7c1563aef3afa20f75d" title="Fonction qui permet de placer un rectangle au centre d&#39;un autre sur l&#39;axe des y." alt="" coords="180,56,323,83"/>
+</map>

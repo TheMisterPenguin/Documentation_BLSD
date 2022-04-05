@@ -1,0 +1,8 @@
+<map id="afficher_menu_accueil" name="afficher_menu_accueil">
+<area shape="rect" id="node1" title="Affiche le menu d&#39;acceuil et gère les interactions avec le joueur." alt="" coords="5,101,173,128"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#a47b9be5462def4189b86dcf60f3a29a5" title="Affiche la texture donnée en paramètre à l&#39;écran." alt="" coords="432,93,557,120"/>
+<area shape="rect" id="node3" href="$da/d68/affichage_8c.html#a6a61a69139c9efe60f3b382747493870" title="Place un rectangle en haut à droite de l&#39;écran puis le replace à partir de cette origine." alt="" coords="229,35,376,76"/>
+<area shape="rect" id="node4" href="$da/d68/affichage_8c.html#ae766b650805d4bdfc2faa57ba24f6cae" title="Déplace un rectangle depuis l&#39;origine de l&#39;écran." alt="" coords="221,101,384,128"/>
+<area shape="rect" id="node5" href="$d1/d41/init__close_8c.html#affaacddc6fe16ed3d818bf7e0c9798eb" title="Fonction qui appelle les fonctions pour terminer le programme." alt="" coords="228,152,377,178"/>
+<area shape="rect" id="node6" href="$d3/d7a/map_8c.html#a87fdc73350f70425b5529472974ecbbb" title=" " alt="" coords="261,202,345,229"/>
+</map>

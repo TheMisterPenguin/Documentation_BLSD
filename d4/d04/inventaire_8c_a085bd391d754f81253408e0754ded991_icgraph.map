@@ -1,0 +1,5 @@
+<map id="consommer_objet" name="consommer_objet">
+<area shape="rect" id="node1" title="Utilise le consommable équipé pour soigner le joueur." alt="" coords="199,31,337,57"/>
+<area shape="rect" id="node2" href="$d0/deb/event_8c.html#a534aa8818b70710ba24c15d6c87b1b5e" title="Fonction qui gère les événements lorsque l&#39;on relache un bouton de la manette." alt="" coords="5,5,151,32"/>
+<area shape="rect" id="node3" href="$d0/deb/event_8c.html#ab35bbcfaf1fe479bd4f5d158db01d9e4" title=" " alt="" coords="37,56,119,83"/>
+</map>

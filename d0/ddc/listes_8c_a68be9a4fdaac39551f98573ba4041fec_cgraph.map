@@ -1,0 +1,6 @@
+<map id="afficher_liste" name="afficher_liste">
+<area shape="rect" id="node1" title="Affiche une liste d&#39;objets génériques." alt="" coords="5,56,112,83"/>
+<area shape="rect" id="node2" href="$d0/ddc/listes_8c.html#a9c780173ba80450b8a01ba4c14963437" title="Fonction qui permet de se placer en tête de la liste." alt="" coords="160,5,231,32"/>
+<area shape="rect" id="node3" href="$d0/ddc/listes_8c.html#a0636ccaaa4306ef8525a26cadc4a4805" title="Fonction booléenne qui permet de savoir si ll&#39;on est actuellement hors de la liste." alt="" coords="279,81,364,108"/>
+<area shape="rect" id="node4" href="$d0/ddc/listes_8c.html#ad6061cfcccc3fe717413526943f7bddc" title="Fonction qui permet de passer à l&#39;élément suivant dans la liste." alt="" coords="160,107,231,133"/>
+</map>

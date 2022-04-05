@@ -1,0 +1,5 @@
+<map id="marcher_monstre" name="marcher_monstre">
+<area shape="rect" id="node1" title="Fonction qui met à jour la texture du monstre pour ses déplacements." alt="" coords="5,31,143,57"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#ab41df9da5f22ea2edd48f4f6d0562158" title="Fonction qui donne l&#39;indice sur l&#39;axe des abscisses actuelle de la texture." alt="" coords="205,5,335,32"/>
+<area shape="rect" id="node3" href="$da/d68/affichage_8c.html#a0843b69b213a0b2f2645ad6158e00bff" title="Fonction qui positionne la texture au n&#45;ème sprite sur l&#39;axe des x." alt="" coords="191,56,349,83"/>
+</map>

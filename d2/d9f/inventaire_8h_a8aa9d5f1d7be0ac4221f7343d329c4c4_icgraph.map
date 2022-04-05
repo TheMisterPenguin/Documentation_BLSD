@@ -1,0 +1,5 @@
+<map id="desequiper_slot" name="desequiper_slot">
+<area shape="rect" id="node1" title="Déséquipe le joueur de l&#39;objet contenu dans un slot de l&#39;inventaire (equipe)" alt="" coords="197,35,323,61"/>
+<area shape="rect" id="node2" href="$d6/d46/menus_8h.html#a98b87de7b6779d1ea4db3543621cc3cb" title=" " alt="" coords="5,5,149,32"/>
+<area shape="rect" id="node3" href="$d6/d46/menus_8h.html#afcde784ea1d5fb8c9fd6436fa063c5f2" title="Affiche l&#39;inventaire et gère les interactions avec l&#39;utilisateur." alt="" coords="5,57,149,98"/>
+</map>

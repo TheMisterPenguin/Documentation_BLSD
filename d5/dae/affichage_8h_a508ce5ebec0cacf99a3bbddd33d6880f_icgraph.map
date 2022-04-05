@@ -1,0 +1,4 @@
+<map id="rect_centre" name="rect_centre">
+<area shape="rect" id="node1" title="Fonction qui permet de placer un rectangle au centre de l&#39;écran." alt="" coords="233,5,328,32"/>
+<area shape="rect" id="node2" href="$d5/dae/affichage_8h.html#a5911c692b804289a22f5a161b4fe2286" title="Déplace la texture pour que son centre soit au centre de l&#39;écran." alt="" coords="5,5,185,32"/>
+</map>

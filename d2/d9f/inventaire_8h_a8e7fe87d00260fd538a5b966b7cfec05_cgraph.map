@@ -1,0 +1,4 @@
+<map id="tout_ramasser" name="tout_ramasser">
+<area shape="rect" id="node1" title="Met tous les objets du jeu dans l&#39;inventaire (sac)" alt="" coords="5,5,121,32"/>
+<area shape="rect" id="node2" href="$d4/d04/inventaire_8c.html#a1144d923a9a0174ae254109cd825c758" title="Fonction qui permet de mettre un objet trouvé dans le sac(inventaire)" alt="" coords="169,5,292,32"/>
+</map>

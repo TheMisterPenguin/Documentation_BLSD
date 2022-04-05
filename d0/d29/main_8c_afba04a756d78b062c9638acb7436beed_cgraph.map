@@ -1,0 +1,7 @@
+<map id="afficher_intro" name="afficher_intro">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,113,108"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#a47b9be5462def4189b86dcf60f3a29a5" title="Affiche la texture donnée en paramètre à l&#39;écran." alt="" coords="167,5,293,32"/>
+<area shape="rect" id="node3" href="$da/d68/affichage_8c.html#a59fc51b629cfed9815495f235dae78e0" title="Fonction qui renvoie, charge une texture et la prépare à se faire afficher." alt="" coords="175,56,285,83"/>
+<area shape="rect" id="node4" href="$da/d68/affichage_8c.html#a3e6b4564952e31a2d9e9d0c98dd6ee78" title="Fonction qui permet de définir exactement la taille de la texture." alt="" coords="161,107,299,133"/>
+<area shape="rect" id="node5" href="$d0/deb/event_8c.html#ac8d571cc4da84ae88b13211ec29eb2e3" title="Fonction qui gère les événements pendant l&#39;affichage de l&#39;introduction." alt="" coords="180,157,280,184"/>
+</map>

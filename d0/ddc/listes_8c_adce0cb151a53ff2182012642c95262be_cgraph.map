@@ -1,0 +1,4 @@
+<map id="en_queue" name="en_queue">
+<area shape="rect" id="node1" title="Fonction qui permet de se placer en queue de la liste." alt="" coords="5,5,91,32"/>
+<area shape="rect" id="node2" href="$d0/ddc/listes_8c.html#abe07097bbae832dce242428fdb1d95b4" title="Fonction booléenne qui permet de savoir si la liste est vide." alt="" coords="139,5,224,32"/>
+</map>

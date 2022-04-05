@@ -1,0 +1,6 @@
+<map id="draw_rect_epaisseur" name="draw_rect_epaisseur">
+<area shape="rect" id="node1" title="Fonction qui permet d&#39;afficher un rectangle à l&#39;écran avec un épaisseur choisie." alt="" coords="221,78,377,105"/>
+<area shape="rect" id="node2" href="$d6/d46/menus_8h.html#afcde784ea1d5fb8c9fd6436fa063c5f2" title="Affiche l&#39;inventaire et gère les interactions avec l&#39;utilisateur." alt="" coords="17,5,161,47"/>
+<area shape="rect" id="node3" href="$d6/d46/menus_8h.html#aa1042f350a66ae56b754f3bf22556405" title="Affiche le menu d&#39;acceuil et gère les interactions avec le joueur." alt="" coords="5,71,173,112"/>
+<area shape="rect" id="node4" href="$d6/d46/menus_8h.html#a4da3c6c1c4423889f8735c91a92e20d9" title="Affiche le menu pause et gère les interactions avec le joueur." alt="" coords="9,136,170,177"/>
+</map>

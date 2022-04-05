@@ -1,0 +1,5 @@
+<map id="stoper_mouvement_joueurs" name="stoper_mouvement_joueurs">
+<area shape="rect" id="node1" title="Stop le mouvement des joueurs en jeu." alt="" coords="217,31,421,57"/>
+<area shape="rect" id="node2" href="$d0/deb/event_8c.html#af96942d682e7c15b6ff75b89f49808e0" title="Fonction qui gère les événements lorsque l&#39;on appuye sur un bouton de la manette." alt="" coords="5,5,169,32"/>
+<area shape="rect" id="node3" href="$d0/deb/event_8c.html#ab35bbcfaf1fe479bd4f5d158db01d9e4" title=" " alt="" coords="46,56,129,83"/>
+</map>

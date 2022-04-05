@@ -1,0 +1,4 @@
+<map id="action_monstre" name="action_monstre">
+<area shape="rect" id="node1" title="Fonction qui met à jour le sprite d&#39;un monstre en fonction d&#39;un joueur." alt="" coords="192,5,315,32"/>
+<area shape="rect" id="node2" href="$d5/dae/affichage_8h.html#a9bfa693255703c0de636ceb7db7d8d2d" title="Fonction qui affiche les monstres." alt="" coords="5,5,144,32"/>
+</map>

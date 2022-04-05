@@ -1,0 +1,8 @@
+<map id="init_liste" name="init_liste">
+<area shape="rect" id="node1" title="Fonction qui permet de créer une liste." alt="" coords="433,107,512,133"/>
+<area shape="rect" id="node2" href="$dc/db7/map_8h.html#af6448083132a6591f73061457f30ebb3" title="Fonction qui récupère les informations stockées dans le fichier don le nom est donne en entrée." alt="" coords="108,5,215,32"/>
+<area shape="rect" id="node3" href="$d0/d29/main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,81,60,108"/>
+<area shape="rect" id="node4" href="$d1/d0f/commun_8h.html#a2858154e2009b0e6e616f313177762bc" title="Fonction qui initialise le Programme." alt="" coords="140,107,183,133"/>
+<area shape="rect" id="node5" href="$d1/d41/init__close_8c.html#a79d4020cf0b63c5c11c847b98348af97" title=" " alt="" coords="269,157,379,184"/>
+<area shape="rect" id="node6" href="$d5/dae/affichage_8h.html#abfdbd054ab99c511dad45879cbad639f" title="Initialise les textures des animations." alt="" coords="263,208,385,235"/>
+</map>

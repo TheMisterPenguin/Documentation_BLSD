@@ -1,0 +1,4 @@
+<map id="joystick_stick" name="joystick_stick">
+<area shape="rect" id="node1" title="Fonction qui gère les déplacements au joystick." alt="" coords="201,5,312,32"/>
+<area shape="rect" id="node2" href="$dd/d20/event_8h.html#ac27091daa86f31b79780d6a91801fd11" title="Fonction qui gère les événements de la manette." alt="" coords="5,5,153,32"/>
+</map>

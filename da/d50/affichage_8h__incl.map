@@ -1,0 +1,7 @@
+<map id="affichage.h" name="affichage.h">
+<area shape="rect" id="node1" title="Fichier contenant les définitions et les fonctions liées au module affichage." alt="" coords="93,5,188,32"/>
+<area shape="rect" id="node2" href="$d1/daa/definition__commun_8h.html" title="Contient toutes les définitions communes à tout les fichiers." alt="" coords="5,229,164,256"/>
+<area shape="rect" id="node3" href="$d2/d2f/personnage_8h.html" title="Fichier contenant toutes les définitions concernant le personnage." alt="" coords="173,155,284,181"/>
+<area shape="rect" id="node4" href="$d8/dd0/listes_8h.html" title="Fonction relatives au type de structure liste générique." alt="" coords="194,229,263,256"/>
+<area shape="rect" id="node5" href="$dc/db7/map_8h.html" title="Définitions des fonctions de gestion de la map." alt="" coords="109,80,172,107"/>
+</map>

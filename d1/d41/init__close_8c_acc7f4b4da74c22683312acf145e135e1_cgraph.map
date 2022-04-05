@@ -1,0 +1,4 @@
+<map id="aff_cleanup" name="aff_cleanup">
+<area shape="rect" id="node1" title="Fonction ajoutée à la liste de atexit() afin de libérer toute la mémoire allouée." alt="" coords="5,5,103,32"/>
+<area shape="rect" id="node2" href="$d0/ddc/listes_8c.html#a4597d1c1550e48dc54b54b240ab3c0e9" title="Détruit une liste en détruisant tout ses éléménts." alt="" coords="151,5,259,32"/>
+</map>

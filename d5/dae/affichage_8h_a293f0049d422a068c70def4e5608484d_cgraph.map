@@ -1,0 +1,5 @@
+<map id="lister_animations" name="lister_animations">
+<area shape="rect" id="node1" title="Liste les animations en jeu." alt="" coords="5,31,140,57"/>
+<area shape="rect" id="node2" href="$d0/ddc/listes_8c.html#a5460022305fdfacd6e0864968fea1841" title="Fonction qui permet d&#39;ajouter un élément à droite de l&#39;élément courant." alt="" coords="227,5,319,32"/>
+<area shape="rect" id="node3" href="$da/d68/affichage_8c.html#ab247b3f13df2741cc77f45e6c80d6a82" title="Fait évoluer les animations en jeu." alt="" coords="188,56,359,83"/>
+</map>

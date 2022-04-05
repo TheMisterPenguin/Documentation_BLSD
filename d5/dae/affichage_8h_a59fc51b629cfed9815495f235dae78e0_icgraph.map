@@ -1,0 +1,16 @@
+<map id="creer_texture" name="creer_texture">
+<area shape="rect" id="node1" title="Fonction qui renvoie, charge une texture et la prépare à se faire afficher." alt="" coords="371,309,480,336"/>
+<area shape="rect" id="node2" href="$de/dde/boss_8c.html#a1ce280469cd40ab2361f088050c1bbe3" title=" " alt="" coords="180,5,303,32"/>
+<area shape="rect" id="node3" href="$d0/d29/main_8c.html#afba04a756d78b062c9638acb7436beed" title=" " alt="" coords="187,56,295,83"/>
+<area shape="rect" id="node4" href="$dc/db7/map_8h.html#af6448083132a6591f73061457f30ebb3" title="Fonction qui récupère les informations stockées dans le fichier don le nom est donne en entrée." alt="" coords="5,157,112,184"/>
+<area shape="rect" id="node5" href="$d2/d9c/coffres_8h.html#a4d05e5a75f401b57f5e6958a50a6a780" title="Fonction qui creer et initialise un coffre sur une carte." alt="" coords="192,157,291,184"/>
+<area shape="rect" id="node6" href="$d6/d46/menus_8h.html#acd5468808be152074a36a5baca990cfe" title="Créer l&#39;inventaire du joueur 2." alt="" coords="168,208,315,235"/>
+<area shape="rect" id="node7" href="$d0/d1f/monstres_8h.html#a59111ee22050f72202e7a958275b05f4" title=" " alt="" coords="183,259,299,285"/>
+<area shape="rect" id="node8" href="$da/df7/sorts_8h.html#ae58ae0350fa823a85aaff7b988b4ce9c" title="Fonction qui creer un sort orienté vers le joueur." alt="" coords="167,309,315,336"/>
+<area shape="rect" id="node9" href="$d7/d64/liste__objet_8h.html#a320f115c92d3d6ed1eada45db42abce0" title="Creer toutes les textures d&#39;une structure lobjet_t." alt="" coords="160,360,323,387"/>
+<area shape="rect" id="node10" href="$d5/dae/affichage_8h.html#abfdbd054ab99c511dad45879cbad639f" title="Initialise les textures des animations." alt="" coords="180,411,303,437"/>
+<area shape="rect" id="node11" href="$de/dea/menus_8c.html#af125d86ac7e33319e054400fbaae33a7" title=" " alt="" coords="178,461,305,488"/>
+<area shape="rect" id="node12" href="$d5/dae/affichage_8h.html#a1e46996e1fc6e19298fb2db0c82a3dfc" title="Fonction qui creer et renvoie une liste de textures pour le personnage (joueur)" alt="" coords="165,512,317,539"/>
+<area shape="rect" id="node13" href="$d2/d9c/coffres_8h.html#afaede33891b4fa55d0b68267a6207487" title="Gère les interactions du joueur avec un coffre lors d&#39;une collision." alt="" coords="173,563,309,589"/>
+<area shape="rect" id="node14" href="$de/dde/boss_8c.html#a9de096805953d1628c74d869cf75e741" title=" " alt="" coords="197,613,286,640"/>
+</map>

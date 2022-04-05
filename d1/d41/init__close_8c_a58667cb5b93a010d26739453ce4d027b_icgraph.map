@@ -1,0 +1,4 @@
+<map id="init_SDL" name="init_SDL">
+<area shape="rect" id="node1" title="Fonction qui démarre la SDL et créer la fenêtre principale." alt="" coords="96,5,171,32"/>
+<area shape="rect" id="node2" href="$d1/d0f/commun_8h.html#a2858154e2009b0e6e616f313177762bc" title="Fonction qui initialise le Programme." alt="" coords="5,5,48,32"/>
+</map>

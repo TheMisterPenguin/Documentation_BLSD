@@ -1,0 +1,8 @@
+<map id="oter_elt" name="oter_elt">
+<area shape="rect" id="node1" title="Fonction qui permet de supprimer un élément de la liste." alt="" coords="412,104,484,131"/>
+<area shape="rect" id="node2" href="$d0/d58/sorts_8c.html#a5a9bb7c6be7a6d5073e48d50f014e299" title=" " alt="" coords="46,19,141,46"/>
+<area shape="rect" id="node3" href="$d5/dae/affichage_8h.html#aa18ada4ee80cd3ec4a96012f5bfdf469" title="Fonction qui détruit une collision donnée dans une liste de collisions." alt="" coords="229,38,364,80"/>
+<area shape="rect" id="node4" href="$d2/d2f/personnage_8h.html#aadc96b5c1e76a0574f5759d63bc46e39" title="Fonction qui gère les effets de l&#39;environnement sur le joueur." alt="" coords="5,74,181,100"/>
+<area shape="rect" id="node5" href="$dc/db7/map_8h.html#af837acc6ac888e66589d3ff48f4eec12" title="Fonction qui permet de détruire une map." alt="" coords="242,155,351,182"/>
+<area shape="rect" id="node6" href="$d8/dd0/listes_8h.html#af234a65d00ef1f963f212d6761636941" title="Fonction qui supprimme tout les éléments de la liste." alt="" coords="251,206,342,232"/>
+</map>

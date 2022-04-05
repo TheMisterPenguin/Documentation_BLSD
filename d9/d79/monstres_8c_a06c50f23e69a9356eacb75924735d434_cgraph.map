@@ -1,0 +1,6 @@
+<map id="ronde_monstre" name="ronde_monstre">
+<area shape="rect" id="node1" title="Fonction qui met à jour la texture d&#39;un monstre lorsqu&#39;il est dans sa phase passive." alt="" coords="5,56,125,83"/>
+<area shape="rect" id="node2" href="$d9/d79/monstres_8c.html#a9f2a99c654f98bb133e186b83a0c7473" title="Fonction qui met à jour la texture du monstre pour ses déplacements." alt="" coords="176,5,313,32"/>
+<area shape="rect" id="node3" href="$d9/d79/monstres_8c.html#a5e89d121093e9ba71800b572fd2a7a0f" title="Fonction qui met à jour la texture du monstre sur la position de garde (immobile)" alt="" coords="173,56,316,83"/>
+<area shape="rect" id="node4" href="$d9/d79/monstres_8c.html#a918d89d6e2bd0808d3ef9c18343b377a" title="Fonction qui met à jour la texture du monstre par rapport à son orientation." alt="" coords="177,107,312,133"/>
+</map>

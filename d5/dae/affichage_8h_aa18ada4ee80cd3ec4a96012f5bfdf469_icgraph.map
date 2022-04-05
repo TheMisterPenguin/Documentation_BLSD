@@ -1,0 +1,5 @@
+<map id="detruire_collision_dans_liste" name="detruire_collision_dans_liste">
+<area shape="rect" id="node1" title="Fonction qui détruit une collision donnée dans une liste de collisions." alt="" coords="229,23,364,65"/>
+<area shape="rect" id="node2" href="$d0/d58/sorts_8c.html#a5a9bb7c6be7a6d5073e48d50f014e299" title=" " alt="" coords="46,5,141,32"/>
+<area shape="rect" id="node3" href="$d2/d2f/personnage_8h.html#aadc96b5c1e76a0574f5759d63bc46e39" title="Fonction qui gère les effets de l&#39;environnement sur le joueur." alt="" coords="5,56,181,83"/>
+</map>

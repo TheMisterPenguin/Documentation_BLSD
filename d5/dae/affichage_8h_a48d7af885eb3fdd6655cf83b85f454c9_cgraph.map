@@ -1,0 +1,4 @@
+<map id="deplacer_texture_origine" name="deplacer_texture_origine">
+<area shape="rect" id="node1" title="Déplace l&#39;origine de la texture aux coordonnées données." alt="" coords="5,5,189,32"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#ae766b650805d4bdfc2faa57ba24f6cae" title="Déplace un rectangle depuis l&#39;origine de l&#39;écran." alt="" coords="237,5,400,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="deplacement_y_entite" name="deplacement_y_entite">
+<area shape="rect" id="node1" title="Fonction qui permet le déplacement d&#39;une entité" alt="" coords="5,81,172,108"/>
+<area shape="rect" id="node2" href="$d0/ddc/listes_8c.html#a9c780173ba80450b8a01ba4c14963437" title="Fonction qui permet de se placer en tête de la liste." alt="" coords="228,5,299,32"/>
+<area shape="rect" id="node3" href="$d0/ddc/listes_8c.html#a0636ccaaa4306ef8525a26cadc4a4805" title="Fonction booléenne qui permet de savoir si ll&#39;on est actuellement hors de la liste." alt="" coords="355,107,440,133"/>
+<area shape="rect" id="node4" href="$d0/ddc/listes_8c.html#ad6061cfcccc3fe717413526943f7bddc" title="Fonction qui permet de passer à l&#39;élément suivant dans la liste." alt="" coords="228,107,299,133"/>
+<area shape="rect" id="node5" href="$d0/ddc/listes_8c.html#a37afb4f802843bd21792cd494296d9dc" title="Fonction qui renvoie l&#39;élément courant." alt="" coords="220,157,307,184"/>
+</map>

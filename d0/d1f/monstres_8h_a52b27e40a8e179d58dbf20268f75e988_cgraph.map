@@ -1,0 +1,8 @@
+<map id="action_monstre" name="action_monstre">
+<area shape="rect" id="node1" title="Fonction qui met à jour le sprite d&#39;un monstre en fonction d&#39;un joueur." alt="" coords="5,107,128,133"/>
+<area shape="rect" id="node2" href="$d9/d79/monstres_8c.html#a71d6820891d2dae4b3d1877faace31a5" title="Fonction qui met à jour la texture d&#39;un monstre lorsqu&#39;il est dans sa phase d&#39;attaque." alt="" coords="203,5,315,32"/>
+<area shape="rect" id="node3" href="$da/d68/affichage_8c.html#a7fc4f1865011306b55987cab6f1cc5a0" title="Fonction qui permet le déplacement d&#39;une entité" alt="" coords="176,56,343,83"/>
+<area shape="rect" id="node4" href="$da/d68/affichage_8c.html#ad62d8b671f591eef20a7f3347067e729" title="Fonction qui permet le déplacement d&#39;une entité" alt="" coords="176,107,343,133"/>
+<area shape="rect" id="node5" href="$dd/dce/personnage_8c.html#a6ba18ba0f6072ebcfceca1d6b8ade72f" title="Renvoie la distance séparant le joueur d&#39;une entité définit par sa collision." alt="" coords="197,157,322,184"/>
+<area shape="rect" id="node6" href="$d9/d79/monstres_8c.html#a06c50f23e69a9356eacb75924735d434" title="Fonction qui met à jour la texture d&#39;un monstre lorsqu&#39;il est dans sa phase passive." alt="" coords="199,208,319,235"/>
+</map>

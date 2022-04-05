@@ -1,0 +1,7 @@
+<map id="ramasser_objet" name="ramasser_objet">
+<area shape="rect" id="node1" title="Fonction qui permet de mettre un objet trouvé dans le sac(inventaire)" alt="" coords="229,81,352,108"/>
+<area shape="rect" id="node2" href="$d2/d9c/coffres_8h.html#afaede33891b4fa55d0b68267a6207487" title="Gère les interactions du joueur avec un coffre lors d&#39;une collision." alt="" coords="25,5,161,32"/>
+<area shape="rect" id="node3" href="$d0/d29/main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="66,56,121,83"/>
+<area shape="rect" id="node4" href="$d9/d66/test__inventaire_8c.html#ae7e5e7ed7946211586fc6c19e42443d0" title=" " alt="" coords="5,107,181,133"/>
+<area shape="rect" id="node5" href="$d2/d9f/inventaire_8h.html#a8e7fe87d00260fd538a5b966b7cfec05" title="Met tous les objets du jeu dans l&#39;inventaire (sac)" alt="" coords="35,157,151,184"/>
+</map>

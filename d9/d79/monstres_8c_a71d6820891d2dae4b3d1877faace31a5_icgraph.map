@@ -1,0 +1,4 @@
+<map id="agro_monstre" name="agro_monstre">
+<area shape="rect" id="node1" title="Fonction qui met à jour la texture d&#39;un monstre lorsqu&#39;il est dans sa phase d&#39;attaque." alt="" coords="176,5,288,32"/>
+<area shape="rect" id="node2" href="$d0/d1f/monstres_8h.html#a52b27e40a8e179d58dbf20268f75e988" title="Fonction qui met à jour le sprite d&#39;un monstre en fonction d&#39;un joueur." alt="" coords="5,5,128,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="joystick_button_up" name="joystick_button_up">
+<area shape="rect" id="node1" title="Fonction qui gère les événements lorsque l&#39;on relache un bouton de la manette." alt="" coords="5,81,151,108"/>
+<area shape="rect" id="node2" href="$d4/d04/inventaire_8c.html#a085bd391d754f81253408e0754ded991" title="Utilise le consommable équipé pour soigner le joueur." alt="" coords="209,5,347,32"/>
+<area shape="rect" id="node3" href="$da/d68/affichage_8c.html#a0843b69b213a0b2f2645ad6158e00bff" title="Fonction qui positionne la texture au n&#45;ème sprite sur l&#39;axe des x." alt="" coords="199,56,357,83"/>
+<area shape="rect" id="node4" href="$da/d68/affichage_8c.html#ae4bffa3eb5b67a9316544428c25bdc44" title="Fonction qui positionne la texture au n&#45;ème sprite sur l&#39;axe des y." alt="" coords="199,107,357,133"/>
+<area shape="rect" id="node5" href="$da/d68/affichage_8c.html#a83f1b5ddb558420c53c41071e559a8ff" title="Fonction qui permet de placer 2 textures aux mêmes endroit à l&#39;écran." alt="" coords="201,157,355,184"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="creer_joueur" name="creer_joueur">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,108,83"/>
+<area shape="rect" id="node2" href="$dd/dce/personnage_8c.html#a11f105c360020140d57fb4d6ddbae8e8" title=" " alt="" coords="205,5,259,32"/>
+<area shape="rect" id="node3" href="$d4/d04/inventaire_8c.html#a1e5fdcf008cdbc2f1f2629e19bf69856" title=" " alt="" coords="168,56,296,83"/>
+<area shape="rect" id="node4" href="$da/d68/affichage_8c.html#aea6ef750998e466ed9d8beef7daefc09" title="Fonction qui creer et renvoie une liste de textures pour le personnage (joueur)" alt="" coords="156,107,308,133"/>
+</map>

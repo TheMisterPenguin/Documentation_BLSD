@@ -1,0 +1,4 @@
+<map id="rush_joueur" name="rush_joueur">
+<area shape="rect" id="node1" title="Fonction qui met à jour la texture du monstre de sorte à ce qu&#39;il se deplace vers le joueur." alt="" coords="152,5,251,32"/>
+<area shape="rect" id="node2" href="$d9/d79/monstres_8c.html#a5a99ac9f9eeb2c828ec061d1677f6344" title="Fonction qui met à jour la texture du monstre &quot;knight&quot; lorsqu&#39;il est dans sa phase d&#39;attaque (reboucl..." alt="" coords="5,5,104,32"/>
+</map>

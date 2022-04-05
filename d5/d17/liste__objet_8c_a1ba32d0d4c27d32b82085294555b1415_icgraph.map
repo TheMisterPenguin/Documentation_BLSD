@@ -1,0 +1,4 @@
+<map id="effacer_liste_objet" name="effacer_liste_objet">
+<area shape="rect" id="node1" title="Efface une liste d&#39;objets sans libérer la mémoire allouée aux objets qu&#39;elle contient." alt="" coords="200,5,343,32"/>
+<area shape="rect" id="node2" href="$d2/d9f/inventaire_8h.html#a5475fde997270b9d30ea85049950f141" title="Détruit un inventaire." alt="" coords="5,5,152,32"/>
+</map>

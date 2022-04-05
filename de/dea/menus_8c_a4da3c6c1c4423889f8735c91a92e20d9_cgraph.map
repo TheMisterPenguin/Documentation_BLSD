@@ -1,0 +1,7 @@
+<map id="afficher_menu_pause_manette" name="afficher_menu_pause_manette">
+<area shape="rect" id="node1" title="Affiche le menu pause et gère les interactions avec le joueur." alt="" coords="5,74,167,115"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#a47b9be5462def4189b86dcf60f3a29a5" title="Affiche la texture donnée en paramètre à l&#39;écran." alt="" coords="233,5,359,32"/>
+<area shape="rect" id="node3" href="$da/d68/affichage_8c.html#ae766b650805d4bdfc2faa57ba24f6cae" title="Déplace un rectangle depuis l&#39;origine de l&#39;écran." alt="" coords="215,56,377,83"/>
+<area shape="rect" id="node4" href="$de/dea/menus_8c.html#ad2b07826ade07b3fcb204ef0b20b56e6" title="Fonction qui permet d&#39;afficher un rectangle à l&#39;écran avec un épaisseur choisie." alt="" coords="218,107,374,133"/>
+<area shape="rect" id="node5" href="$d1/d41/init__close_8c.html#affaacddc6fe16ed3d818bf7e0c9798eb" title="Fonction qui appelle les fonctions pour terminer le programme." alt="" coords="221,157,371,184"/>
+</map>

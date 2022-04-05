@@ -1,0 +1,4 @@
+<map id="place_rect_center_from_point" name="place_rect_center_from_point">
+<area shape="rect" id="node1" title="Fonction qui permet de placer le centre du rectangle donné en paramètre à un point précis." alt="" coords="5,5,180,47"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#aad94b2ce0d93f581c0f82b0467a8d2ed" title="Renvoie les coordonnées du centre du rectangle." alt="" coords="228,13,395,39"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="init" name="init">
+<area shape="rect" id="node1" title="Fonction qui initialise le Programme." alt="" coords="5,183,48,209"/>
+<area shape="rect" id="node2" href="$d1/d41/init__close_8c.html#acc7f4b4da74c22683312acf145e135e1" title="Fonction ajoutée à la liste de atexit() afin de libérer toute la mémoire allouée." alt="" coords="115,5,212,32"/>
+<area shape="rect" id="node3" href="$d0/ddc/listes_8c.html#a5460022305fdfacd6e0864968fea1841" title="Fonction qui permet d&#39;ajouter un élément à droite de l&#39;élément courant." alt="" coords="117,56,209,83"/>
+<area shape="rect" id="node4" href="$d1/d41/init__close_8c.html#a28e2aa804ce4e3ee68465a58b70885e4" title=" " alt="" coords="96,107,231,133"/>
+<area shape="rect" id="node5" href="$d1/d41/init__close_8c.html#ab4756fccf04e9940ea20ee66d5167fd8" title="Fonction qui détruit la fenêtre principale et ferme la SDL." alt="" coords="114,157,213,184"/>
+<area shape="rect" id="node6" href="$d1/d41/init__close_8c.html#a79d4020cf0b63c5c11c847b98348af97" title=" " alt="" coords="108,208,219,235"/>
+<area shape="rect" id="node7" href="$d0/ddc/listes_8c.html#a44494ff9efed6cd1416119b4a4f3dca2" title="Fonction qui permet de créer une liste." alt="" coords="279,233,357,260"/>
+<area shape="rect" id="node8" href="$d1/d41/init__close_8c.html#a739cf24a8e355e9a31447055eae9ae69" title=" " alt="" coords="100,309,227,336"/>
+<area shape="rect" id="node9" href="$d1/d41/init__close_8c.html#a58667cb5b93a010d26739453ce4d027b" title="Fonction qui démarre la SDL et créer la fenêtre principale." alt="" coords="126,360,201,387"/>
+</map>

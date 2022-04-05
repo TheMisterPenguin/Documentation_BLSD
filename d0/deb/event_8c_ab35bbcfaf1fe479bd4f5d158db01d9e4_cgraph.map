@@ -1,0 +1,8 @@
+<map id="keyDown" name="keyDown">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,88,133"/>
+<area shape="rect" id="node2" href="$de/dea/menus_8c.html#a98b87de7b6779d1ea4db3543621cc3cb" title=" " alt="" coords="166,5,310,32"/>
+<area shape="rect" id="node3" href="$de/dea/menus_8c.html#a1ff516df4d202f56e051c3c040ee87b5" title="Affiche le menu pause et gère les interactions avec le joueur." alt="" coords="157,56,319,83"/>
+<area shape="rect" id="node4" href="$d4/d04/inventaire_8c.html#a085bd391d754f81253408e0754ded991" title="Utilise le consommable équipé pour soigner le joueur." alt="" coords="169,107,307,133"/>
+<area shape="rect" id="node5" href="$dd/dce/personnage_8c.html#a1a3324d2dc734d1d45b92a562e61ae18" title="Stop le mouvement des joueurs en jeu." alt="" coords="136,157,340,184"/>
+<area shape="rect" id="node6" href="$da/d68/affichage_8c.html#a83f1b5ddb558420c53c41071e559a8ff" title="Fonction qui permet de placer 2 textures aux mêmes endroit à l&#39;écran." alt="" coords="161,208,315,235"/>
+</map>

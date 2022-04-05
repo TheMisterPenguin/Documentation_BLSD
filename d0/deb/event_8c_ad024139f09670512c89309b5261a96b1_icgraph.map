@@ -1,0 +1,4 @@
+<map id="keyUp" name="keyUp">
+<area shape="rect" id="node1" title="Fonction qui gère les événements quand une touche du clavier est relachée par un joueur." alt="" coords="140,5,203,32"/>
+<area shape="rect" id="node2" href="$dd/d20/event_8h.html#a5f8eef7cc98d022db9987ee0634804e6" title="Fonction qui gère les événements." alt="" coords="5,5,92,32"/>
+</map>

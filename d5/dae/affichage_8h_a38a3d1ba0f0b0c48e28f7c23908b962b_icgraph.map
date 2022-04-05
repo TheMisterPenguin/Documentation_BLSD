@@ -1,0 +1,9 @@
+<map id="rect_correct_texture" name="rect_correct_texture">
+<area shape="rect" id="node1" title="Fonction qui détermine si la structure SDL_Rect ne dépasse pas la taille de la texture." alt="" coords="220,132,373,159"/>
+<area shape="rect" id="node2" href="$d5/dae/affichage_8h.html#a6f0fc4ba6c30318cf97b149973826b13" title="Fonction qui positionne la texture au n&#45;ème sprite sur l&#39;axe des x." alt="" coords="17,5,160,32"/>
+<area shape="rect" id="node3" href="$d5/dae/affichage_8h.html#a7adca84e118cd2c0a47dc5f754a4a5b2" title="Fonction qui positionne la texture au sprite d&#39;après sur l&#39;axe des x." alt="" coords="33,56,145,83"/>
+<area shape="rect" id="node4" href="$d5/dae/affichage_8h.html#a2184b77dfc56657f52d72e3c2f766db8" title="Fonction qui positionne la texture au n&#45;ème sprite sur l&#39;axe des x." alt="" coords="9,107,168,133"/>
+<area shape="rect" id="node5" href="$d5/dae/affichage_8h.html#a1e152c4ffb55530b72318cf321ef2770" title="Fonction qui positionne la texture au sprite d&#39;après sur l&#39;axe des y." alt="" coords="33,157,145,184"/>
+<area shape="rect" id="node6" href="$d5/dae/affichage_8h.html#a81e972fd3cad23381f37fc901733d7e2" title="Fonction qui positionne la texture au n&#45;ème sprite sur l&#39;axe des y." alt="" coords="9,208,168,235"/>
+<area shape="rect" id="node7" href="$da/d68/affichage_8c.html#ae758bf274706045e5903407fbaf967cc" title=" " alt="" coords="5,259,172,285"/>
+</map>

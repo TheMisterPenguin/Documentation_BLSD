@@ -1,0 +1,4 @@
+<map id="charger_sauvegarde_joueur" name="charger_sauvegarde_joueur">
+<area shape="rect" id="node1" title="Fonction qui charge une sauvegarde au format JSON." alt="" coords="215,5,369,47"/>
+<area shape="rect" id="node2" href="$d6/d46/menus_8h.html#a1ff516df4d202f56e051c3c040ee87b5" title="Affiche le menu pause et gère les interactions avec le joueur." alt="" coords="5,13,167,39"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="affichage_chargement_attaque_boss" name="affichage_chargement_attaque_boss">
+<area shape="rect" id="node1" title="animation lancement d&#39;un sort" alt="" coords="5,5,172,47"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#a912edf846a7b2241716b7c93821b5817" title="Fonction qui positionne la texture au n&#45;ème sprite sur l&#39;axe des x." alt="" coords="220,13,363,39"/>
+</map>

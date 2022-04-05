@@ -1,0 +1,6 @@
+<map id="deplacer_rect_haut_droit" name="deplacer_rect_haut_droit">
+<area shape="rect" id="node1" title="Place un rectangle en haut à droite de l&#39;écran puis le replace à partir de cette origine." alt="" coords="221,49,368,90"/>
+<area shape="rect" id="node2" href="$d6/d46/menus_8h.html#a1c8778affd5380fae88f7ce24787c8ea" title="Affiche le menu d&#39;acceuil et gère les interactions avec le joueur." alt="" coords="5,5,173,32"/>
+<area shape="rect" id="node3" href="$d6/d46/menus_8h.html#a1ff516df4d202f56e051c3c040ee87b5" title="Affiche le menu pause et gère les interactions avec le joueur." alt="" coords="9,56,170,83"/>
+<area shape="rect" id="node4" href="$d5/dae/affichage_8h.html#ae6459fb3c595a3121db1ff654bd78e93" title="La texture est déplacée vers le coin inférieur gauche de l&#39;écran." alt="" coords="8,107,171,149"/>
+</map>

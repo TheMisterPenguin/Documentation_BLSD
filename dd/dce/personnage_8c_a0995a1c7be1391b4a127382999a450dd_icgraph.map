@@ -1,0 +1,5 @@
+<map id="creer_joueur" name="creer_joueur">
+<area shape="rect" id="node1" title=" " alt="" coords="208,42,311,69"/>
+<area shape="rect" id="node2" href="$d2/d2f/personnage_8h.html#ad8c439be63cc83e7b5c4a0d33f62f639" title="Fonction qui charge une sauvegarde au format JSON." alt="" coords="5,5,160,47"/>
+<area shape="rect" id="node3" href="$d2/d2f/personnage_8h.html#a7737c7514f9c4f5c01ff698b97544c2c" title="Fonction de création d&#39;un joueur correspondant au modèle standard du jeu." alt="" coords="34,71,131,98"/>
+</map>

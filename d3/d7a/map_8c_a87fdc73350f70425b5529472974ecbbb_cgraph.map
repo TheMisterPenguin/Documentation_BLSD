@@ -1,0 +1,10 @@
+<map id="transition" name="transition">
+<area shape="rect" id="node1" title=" " alt="" coords="5,157,89,184"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#a47b9be5462def4189b86dcf60f3a29a5" title="Affiche la texture donnée en paramètre à l&#39;écran." alt="" coords="143,5,269,32"/>
+<area shape="rect" id="node3" href="$d3/d7a/map_8c.html#af6448083132a6591f73061457f30ebb3" title="Fonction qui récupère les informations stockées dans le fichier don le nom est donne en entrée." alt="" coords="153,56,259,83"/>
+<area shape="rect" id="node4" href="$da/d68/affichage_8c.html#a3e6b4564952e31a2d9e9d0c98dd6ee78" title="Fonction qui permet de définir exactement la taille de la texture." alt="" coords="137,107,275,133"/>
+<area shape="rect" id="node5" href="$d3/d7a/map_8c.html#af837acc6ac888e66589d3ff48f4eec12" title="Fonction qui permet de détruire une map." alt="" coords="151,157,261,184"/>
+<area shape="rect" id="node6" href="$da/d68/affichage_8c.html#a6e1d5af117ac87c2c309507f4750dcb9" title="Fonction qui détruit une structure d&#39;affichage de texture passée en paramètre." alt="" coords="323,183,449,209"/>
+<area shape="rect" id="node7" href="$d3/d7a/map_8c.html#aad95fee9e6bf2bd4c8ae74d98e1a6821" title="Fonction qui initialise les textures qui serviront de buffer d&#39;affichage au moteur du jeu." alt="" coords="147,259,265,285"/>
+<area shape="rect" id="node8" href="$d3/d7a/map_8c.html#a7e9c15657f08efce7a84ec6822c064e2" title=" " alt="" coords="161,309,251,336"/>
+</map>

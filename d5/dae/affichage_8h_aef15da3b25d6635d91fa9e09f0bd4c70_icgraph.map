@@ -1,0 +1,4 @@
+<map id="placer_texture" name="placer_texture">
+<area shape="rect" id="node1" title="Place une texture sur l&#39;écran." alt="" coords="184,5,300,32"/>
+<area shape="rect" id="node2" href="$d7/d64/liste__objet_8h.html#a77d9896eda8e07e16cb235a43780d405" title="Place la texture d&#39;un objet contenu dans une liste d&#39;objet dans le sac depuis le menu inventaire selo..." alt="" coords="5,5,136,32"/>
+</map>

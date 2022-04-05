@@ -1,0 +1,6 @@
+<map id="joystick_button_down" name="joystick_button_down">
+<area shape="rect" id="node1" title="Fonction qui gère les événements lorsque l&#39;on appuye sur un bouton de la manette." alt="" coords="5,78,169,105"/>
+<area shape="rect" id="node2" href="$de/dea/menus_8c.html#afcde784ea1d5fb8c9fd6436fa063c5f2" title="Affiche l&#39;inventaire et gère les interactions avec l&#39;utilisateur." alt="" coords="247,5,391,47"/>
+<area shape="rect" id="node3" href="$de/dea/menus_8c.html#a4da3c6c1c4423889f8735c91a92e20d9" title="Affiche le menu pause et gère les interactions avec le joueur." alt="" coords="239,71,400,112"/>
+<area shape="rect" id="node4" href="$dd/dce/personnage_8c.html#a1a3324d2dc734d1d45b92a562e61ae18" title="Stop le mouvement des joueurs en jeu." alt="" coords="217,137,421,163"/>
+</map>

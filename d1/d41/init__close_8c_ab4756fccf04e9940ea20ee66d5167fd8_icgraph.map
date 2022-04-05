@@ -1,0 +1,4 @@
+<map id="fermer_SDL" name="fermer_SDL">
+<area shape="rect" id="node1" title="Fonction qui détruit la fenêtre principale et ferme la SDL." alt="" coords="96,5,195,32"/>
+<area shape="rect" id="node2" href="$d1/d0f/commun_8h.html#a2858154e2009b0e6e616f313177762bc" title="Fonction qui initialise le Programme." alt="" coords="5,5,48,32"/>
+</map>

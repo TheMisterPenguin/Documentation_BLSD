@@ -1,0 +1,4 @@
+<map id="update_frame_texture" name="update_frame_texture">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,172,32"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#a2201c110dd65bb833da125813d849273" title="Fonction qui détermine si la structure SDL_Rect ne dépasse pas la taille de la texture." alt="" coords="220,5,373,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="afficher_objet" name="afficher_objet">
+<area shape="rect" id="node1" title="Affiche les caractéristiques d&#39;un objet dans la console." alt="" coords="200,5,311,32"/>
+<area shape="rect" id="node2" href="$d7/d64/liste__objet_8h.html#af785d71f7a4b48b956bb4c6b024d2b6e" title="Affiche une liste d&#39;objets dans la console." alt="" coords="5,5,152,32"/>
+</map>

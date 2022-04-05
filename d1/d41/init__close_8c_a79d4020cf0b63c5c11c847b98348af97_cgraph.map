@@ -1,0 +1,7 @@
+<map id="init_affichage" name="init_affichage">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,116,108"/>
+<area shape="rect" id="node2" href="$da/d68/affichage_8c.html#af8603f4920c0b8d010eef5b26e9c19c3" title="Fonction qui ajoute une texture dans une liste générique." alt="" coords="166,5,289,32"/>
+<area shape="rect" id="node3" href="$da/d68/affichage_8c.html#a6e1d5af117ac87c2c309507f4750dcb9" title="Fonction qui détruit une structure d&#39;affichage de texture passée en paramètre." alt="" coords="164,56,291,83"/>
+<area shape="rect" id="node4" href="$da/d68/affichage_8c.html#a833a9e3f93662a67ba30a73d64435286" title="Affiche des informations en console sur une texture." alt="" coords="177,107,278,133"/>
+<area shape="rect" id="node5" href="$d0/ddc/listes_8c.html#a44494ff9efed6cd1416119b4a4f3dca2" title="Fonction qui permet de créer une liste." alt="" coords="188,157,267,184"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="info_texture" name="info_texture">
+<area shape="rect" id="node1" title="Affiche des informations en console sur une texture." alt="" coords="164,56,265,83"/>
+<area shape="rect" id="node2" href="$d2/d9c/coffres_8h.html#ad339236e720fb2e7e16c44ebbd7c414b" title="Affcihe les informations sur un coffre dans la console." alt="" coords="15,5,106,32"/>
+<area shape="rect" id="node3" href="$d1/d41/init__close_8c.html#a79d4020cf0b63c5c11c847b98348af97" title=" " alt="" coords="5,56,116,83"/>
+<area shape="rect" id="node4" href="$d0/d29/main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="33,107,88,133"/>
+</map>

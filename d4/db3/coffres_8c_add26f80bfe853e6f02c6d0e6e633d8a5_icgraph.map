@@ -1,0 +1,4 @@
+<map id="inverser_direction" name="inverser_direction">
+<area shape="rect" id="node1" title="Inverse une direction." alt="" coords="189,5,328,32"/>
+<area shape="rect" id="node2" href="$d2/d9c/coffres_8h.html#afaede33891b4fa55d0b68267a6207487" title="Gère les interactions du joueur avec un coffre lors d&#39;une collision." alt="" coords="5,5,141,32"/>
+</map>

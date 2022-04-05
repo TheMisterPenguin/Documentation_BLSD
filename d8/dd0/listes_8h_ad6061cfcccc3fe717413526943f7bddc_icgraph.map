@@ -1,0 +1,23 @@
+<map id="suivant" name="suivant">
+<area shape="rect" id="node1" title="Fonction qui permet de passer à l&#39;élément suivant dans la liste." alt="" coords="765,519,836,546"/>
+<area shape="rect" id="node2" href="$d5/dae/affichage_8h.html#a8a414764c90c1cc2a104f536ef34a8dd" title="Fonction qui affiche la texture des animations." alt="" coords="121,38,271,65"/>
+<area shape="rect" id="node3" href="$d0/d29/main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="5,443,60,470"/>
+<area shape="rect" id="node4" href="$d5/dae/affichage_8h.html#ab3637688138fc059d87799ea8ec77514" title="Fonction qui affiche les textures contenues dans la liste en paramètre." alt="" coords="576,139,692,166"/>
+<area shape="rect" id="node5" href="$d5/dae/affichage_8h.html#a373b7b6959133fba94c4030ebfa75155" title="Fonction qui affiche la texture des coffres." alt="" coords="135,227,257,254"/>
+<area shape="rect" id="node6" href="$d8/dd0/listes_8h.html#a68be9a4fdaac39551f98573ba4041fec" title="Affiche une liste d&#39;objets génériques." alt="" coords="581,241,687,267"/>
+<area shape="rect" id="node7" href="$d5/dae/affichage_8h.html#a9bfa693255703c0de636ceb7db7d8d2d" title="Fonction qui affiche les monstres." alt="" coords="127,317,265,343"/>
+<area shape="rect" id="node8" href="$d5/dae/affichage_8h.html#a6d78ce42135a25accbd3bf152dc94563" title="Fonction qui affiche les sorts." alt="" coords="141,379,251,406"/>
+<area shape="rect" id="node9" href="$d5/dae/affichage_8h.html#a1ad58b041cf913f02022a14540fb96bb" title="Fonction qui permet le déplacement d&#39;une entité" alt="" coords="551,393,717,419"/>
+<area shape="rect" id="node10" href="$d5/dae/affichage_8h.html#a2a84ccb2d94dcced9d8a95eed9bc413b" title="Permet de déplacer un joueur secondaire de x unités horizontales sur la map." alt="" coords="332,436,503,477"/>
+<area shape="rect" id="node11" href="$d5/dae/affichage_8h.html#aa536721b7c2a9adac6ef4f2ffb83074e" title="Permet de déplacer le personnage de x unités horizontales sur la map." alt="" coords="339,502,496,529"/>
+<area shape="rect" id="node12" href="$d5/dae/affichage_8h.html#a2f44858b86ff8e45d566a09cdd6549e9" title="Fonction qui permet le déplacement d&#39;une entité" alt="" coords="551,545,717,571"/>
+<area shape="rect" id="node13" href="$d5/dae/affichage_8h.html#a06c50666787c24c1a3ca91501e9f772d" title="Permet de déplacer un joueur secondaire de y unités verticales sur la map." alt="" coords="332,571,503,612"/>
+<area shape="rect" id="node14" href="$d5/dae/affichage_8h.html#a1479d2bcf35df66e73306d28d9ea0e13" title="Permet de déplacer le personnage principal de y unités verticales sur la map." alt="" coords="339,637,496,663"/>
+<area shape="rect" id="node15" href="$d5/dae/affichage_8h.html#aa18ada4ee80cd3ec4a96012f5bfdf469" title="Fonction qui détruit une collision donnée dans une liste de collisions." alt="" coords="350,849,485,891"/>
+<area shape="rect" id="node16" href="$d2/d2f/personnage_8h.html#aadc96b5c1e76a0574f5759d63bc46e39" title="Fonction qui gère les effets de l&#39;environnement sur le joueur." alt="" coords="108,827,284,854"/>
+<area shape="rect" id="node17" href="$dc/db7/map_8h.html#af837acc6ac888e66589d3ff48f4eec12" title="Fonction qui permet de détruire une map." alt="" coords="363,966,472,993"/>
+<area shape="rect" id="node18" href="$d1/daa/definition__commun_8h.html#affaacddc6fe16ed3d818bf7e0c9798eb" title="Fonction qui appelle les fonctions pour terminer le programme." alt="" coords="121,709,271,735"/>
+<area shape="rect" id="node19" href="$d2/d9c/coffres_8h.html#afaede33891b4fa55d0b68267a6207487" title="Gère les interactions du joueur avec un coffre lors d&#39;une collision." alt="" coords="566,595,702,622"/>
+<area shape="rect" id="node20" href="$d8/dd0/listes_8h.html#a59c2257ab1cda9f78444e6b71a8a0c8d" title="Fonction qui permet de supprimer un élément de la liste." alt="" coords="598,899,670,926"/>
+<area shape="rect" id="node21" href="$d8/dd0/listes_8h.html#ac84d5f990f188eed04f7670abf38b020" title="Fonction qui permet de selectionner l&#39;élément courant à partir d&#39;un élément précis." alt="" coords="553,950,715,977"/>
+</map>
