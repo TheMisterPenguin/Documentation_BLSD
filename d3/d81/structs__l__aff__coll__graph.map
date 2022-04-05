@@ -1,0 +1,4 @@
+<map id="s_l_aff" name="s_l_aff">
+<area shape="rect" id="node1" title="Structure contenant la liste des textures créées par le programme." alt="" coords="5,95,69,121"/>
+<area shape="rect" id="node2" href="$df/d5b/structs__aff.html" title="Structure qui permet l&#39;affichage d&#39;une texture à l&#39;écran de manière précise." alt="" coords="11,5,64,32"/>
+</map>
