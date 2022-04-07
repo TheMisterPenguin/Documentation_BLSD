@@ -1,5 +1,4 @@
 <map id="afficher_statistiques" name="afficher_statistiques">
-<area shape="rect" id="node1" title="Fonction qui affiche les statistiques d&#39;un joueur dans la console." alt="" coords="148,31,303,57"/>
-<area shape="rect" id="node2" href="$d2/d9f/inventaire_8h.html#afbcc0f721ebc471ac4fb9cafd97fb77a" title="Fonction qui permet de passer un objet d&#39;un emplacement d&#39;équipement(équipé) au sac(non&#45;équipé) dans ..." alt="" coords="5,5,100,32"/>
-<area shape="rect" id="node3" href="$d9/d66/test__inventaire_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="25,56,80,83"/>
+<area shape="rect" id="node1" title="Fonction qui affiche les statistiques d&#39;un joueur dans la console." alt="" coords="108,5,263,32"/>
+<area shape="rect" id="node2" href="$d9/d66/test__inventaire_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="5,5,60,32"/>
 </map>
